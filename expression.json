@@ -15,7 +15,7 @@
         "category": "基本"
     },
     {
-        "phrase": "I would rather (do)",
+        "phrase": "I'd rather (do)",
         "meaning": "むしろ～したい",
         "category": "基本"
     },
@@ -52,6 +52,11 @@
     {
         "phrase": "I might've (done)",
         "meaning": "～したかもしれない",
+        "category": "基本"
+    },
+    {
+        "phrase": "I had (done)",
+        "meaning": "すでに～していた",
         "category": "基本"
     },
 
