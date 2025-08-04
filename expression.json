@@ -1,105 +1,107 @@
 [
     {
         "phrase": "I have to 原形",
-        "ja": "～しなければならない",
+        "meaning": "～しなければならない",
         "category": "動作に向かう"
     },
     {
         "phrase": "I've got to 原形",
-        "ja": "～しなきゃ",
+        "meaning": "～しなきゃ",
         "category": "動作に向かう"
     },
     {
         "phrase": "I need to 原形",
-        "ja": "～する必要がある",
+        "meaning": "～する必要がある",
         "category": "動作に向かう"
     },
     {
         "phrase": "I want to 原形",
-        "ja": "～したい",
+        "meaning": "～したい",
         "category": "動作に向かう"
     },
     {
         "phrase": "I'd like to 原形",
-        "ja": "～したい（丁寧）",
+        "meaning": "～したい（丁寧）",
         "category": "動作に向かう"
     },
     {
         "phrase": "I hope to 原形",
-        "ja": "～できたらいいな（控えめ）",
+        "meaning": "～できたらいいな（控えめ）",
         "category": "動作に向かう"
     },
     {
         "phrase": "I wish to 原形",
-        "ja": "～したいです（とても丁寧）",
+        "meaning": "～したいです（とても丁寧）",
         "category": "動作に向かう"
     },
     {
         "phrase": "I expect to 原形",
-        "ja": "～するつもり",
+        "meaning": "～するつもり",
         "category": "動作に向かう"
     },
     {
         "phrase": "I promise to 原形",
-        "ja": "～するのを約束する",
+        "meaning": "～するのを約束する",
         "category": "動作に向かう"
     },
     {
         "phrase": "I agree to 原形",
-        "ja": "～するのに同意する",
+        "meaning": "～するのに同意する",
         "category": "動作に向かう"
     },
     {
         "phrase": "I try to 原形",
-        "ja": "～しようと努力する",
+        "meaning": "～しようと努力する",
         "category": "動作に向かう"
     },
     {
         "phrase": "I struggle to 原形",
-        "ja": "～するのに苦戦する",
+        "meaning": "～するのに苦戦する",
         "category": "動作に向かう"
     },
     {
         "phrase": "I offer to 原形",
-        "ja": "～するのを申し出る",
+        "meaning": "～するのを申し出る",
         "category": "動作に向かう"
     },
     {
         "phrase": "I attempted to 原形",
-        "ja": "～しようと試みた",
+        "meaning": "～しようと試みた",
         "category": "動作に向かう"
     },
     {
         "phrase": "I learned to 原形",
-        "ja": "～できるようになった",
+        "meaning": "～できるようになった",
         "category": "動作に向かう"
     },
     {
         "phrase": "I decided to 原形",
-        "ja": "～することを決めた",
+        "meaning": "～することを決めた",
         "category": "動作に向かう"
     },
     {
         "phrase": "I forgot to 原形",
-        "ja": "～することを忘れた",
+        "meaning": "～することを忘れた",
         "category": "動作に向かう"
     },
     {
         "phrase": "I failed to 原形",
-        "ja": "～しそこなった",
+        "meaning": "～しそこなった",
         "category": "動作に向かう"
     },
     {
         "phrase": "I refused to 原形",
-        "ja": "～するのを拒んだ",
+        "meaning": "～するのを拒んだ",
         "category": "動作に向かう"
     },
     {
         "phrase": "I used to 原形",
-        "ja": "昔は～していた（今は違う）",
+        "meaning": "昔は～していた（今は違う）",
         "category": "動作に向かう"
     },
     
+
+
     {
         "phrase": "I’m going to 原形",
         "meaning": "未来全般",
@@ -157,7 +159,7 @@
     },
     {
         "phrase": "I’m dying to 原形",
-        "meaning": "超～したい！（スラング気味）",
+        "meaning": "死ぬほど～したい！",
         "category": "動作に向かう気持ち"
     },
     {
@@ -176,100 +178,162 @@
         "category": "動作に向かう気持ち"
     },
 
+
+
     {
-        "phrase": "I feel like (something)",
+        "phrase": "I feel like (sth)",
         "meaning": "～な気分である",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m interested in (something)",
+        "phrase": "I’m interested in (sth)",
         "meaning": "～に興味がある",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m tired of (something)",
+        "phrase": "I’m tired of (sth)",
         "meaning": "～にうんざりしている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m fed up with (something)",
+        "phrase": "I’m fed up with (sth)",
         "meaning": "～にうんざりしている（かため）",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m worried about (something)",
+        "phrase": "I’m worried about (sth)",
         "meaning": "～を心配している",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m frightened of (something)",
+        "phrase": "I’m frightened of (sth)",
         "meaning": "～に怖がっている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m pleased with (something)",
+        "phrase": "I’m pleased with (sth)",
         "meaning": "～に喜んでいる",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m satisfied with (something)",
+        "phrase": "I’m satisfied with (sth)",
         "meaning": "～に満足している",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m delighted with (something)",
+        "phrase": "I’m delighted with (sth)",
         "meaning": "～に大喜びである",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m surprised at (something)",
+        "phrase": "I’m surprised at (sth)",
         "meaning": "～に驚いている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m amazed at (something)",
+        "phrase": "I’m amazed at (sth)",
         "meaning": "～にひどく驚いている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m disappointed at (something)",
+        "phrase": "I’m disappointed at (sth)",
         "meaning": "～にがっかりしている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m shocked at (something)",
+        "phrase": "I’m shocked at (sth)",
         "meaning": "～にショックを受けている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m excited at (something)",
+        "phrase": "I’m excited at (sth)",
         "meaning": "～に興奮している",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m looking forward to (something)",
+        "phrase": "I’m looking forward to (sth)",
         "meaning": "～を楽しみにしている（丁寧）",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m used to (something)",
+        "phrase": "I’m used to (sth)",
         "meaning": "～に慣れている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m accustomed to (something)",
+        "phrase": "I’m accustomed to (sth)",
         "meaning": "～に慣れている",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m opposed to (something)",
+        "phrase": "I’m opposed to (sth)",
         "meaning": "～に反対している",
         "category": "何かに対する気持ち"
     },
     {
-        "phrase": "I’m committed to (something)",
+        "phrase": "I’m committed to (sth)",
         "meaning": "～に熱心に取り組んでいる",
         "category": "何かに対する気持ち"
+    },
+
+
+
+    {
+        "phrase": "I think (that) 文",
+        "meaning": "～だと思う",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I thought (that) 文",
+        "meaning": "～だと思っていた",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I assume (that) 文",
+        "meaning": "～だと思っている（決めつけ）",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I guess (that) 文",
+        "meaning": "多分～かな",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I hope (that) 文",
+        "meaning": "～だといいな",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I wish (that) 文：仮定法",
+        "meaning": "～だったらいいのに（妄想）",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I regret (that) 文",
+        "meaning": "～ということを残念に思う",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I’m sure (that) 文",
+        "meaning": "～だと確信している",
+        "category": "主観的な意見"
     }
 
+
+
+    {
+        "phrase": "It’s said (that) 文",
+        "meaning": "～だと言われている",
+        "category": "客観的な意見"
+    },
+    {
+        "phrase": "It seems (that) 文",
+        "meaning": "～だと思われる",
+        "category": "客観的な意見"
+    },
+    {
+        "phrase": "It appears (that) 文",
+        "meaning": "どうやら～らしい",
+        "category": "客観的な意見"
+    }
 ]
