@@ -15,6 +15,11 @@
         "category": "基本"
     },
     {
+        "phrase": "I would rather (do)",
+        "meaning": "むしろ～したい",
+        "category": "基本"
+    },
+    {
         "phrase": "I can (do)",
         "meaning": "～できる可能性がある",
         "category": "基本"
