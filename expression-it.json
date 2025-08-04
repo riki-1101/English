@@ -1,5 +1,15 @@
 [
     {
+        "phrase": "It takes (time) to (do)",
+        "meaning": "～するのに(時間)がかかる",
+        "category": "基本"
+    },
+
+
+
+
+
+    {
         "phrase": "It's kind of (adj)",
         "meaning": "なんかちょっと～だね",
         "category": "状態"
@@ -25,6 +35,21 @@
         "category": "意見"
     },
     {
+        "phrase": "It’s true (SV), but (SV)",
+        "meaning": "～は本当だが、～だ",
+        "category": "意見"
+    },
+    {
+        "phrase": "It’s likely (SV)",
+        "meaning": "～しそうだ",
+        "category": "意見"
+    },
+    {
+        "phrase": "It’s unlikely (SV)",
+        "meaning": "～しそうにない",
+        "category": "意見"
+    },
+    {
         "phrase": "It seems (SV)",
         "meaning": "～だと思われる",
         "category": "意見"
@@ -32,6 +57,21 @@
     {
         "phrase": "It appears (SV)",
         "meaning": "どうやら～らしい",
+        "category": "意見"
+    },
+    {
+        "phrase": "It’s no use (doing)",
+        "meaning": "～しても無駄だ",
+        "category": "意見"
+    },
+    {
+        "phrase": "It’s useless to (do)",
+        "meaning": "～しても無駄だ",
+        "category": "意見"
+    },
+    {
+        "phrase": "It’s worth it to (do)",
+        "meaning": "～する価値がある",
         "category": "意見"
     }
 ]
