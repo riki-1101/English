@@ -1,101 +1,156 @@
 [
     {
-        "phrase": "I have to 原形",
+        "phrase": "I will (do)",
+        "meaning": "～する意志がある",
+        "category": "基本"
+    },
+    {
+        "phrase": "I'll just go (do)",
+        "meaning": "ちょっと～しに行く",
+        "category": "基本"
+    },
+    {
+        "phrase": "I would often (do)",
+        "meaning": "～したものだ",
+        "category": "基本"
+    },
+    {
+        "phrase": "I can (do)",
+        "meaning": "～できる可能性がある",
+        "category": "基本"
+    },
+    {
+        "phrase": "I should (do)",
+        "meaning": "～するのが普通である",
+        "category": "基本"
+    },
+    {
+        "phrase": "I've (done)",
+        "meaning": "今までに～している",
+        "category": "基本"
+    },
+    {
+        "phrase": "I've just (done)",
+        "meaning": "ちょうど～したところ",
+        "category": "基本"
+    },
+    {
+        "phrase": "I've never (done)",
+        "meaning": "一度も～していない",
+        "category": "基本"
+    },
+    {
+        "phrase": "I should've (done)",
+        "meaning": "～すべきだった",
+        "category": "基本"
+    },
+    {
+        "phrase": "I might've (done)",
+        "meaning": "～したかもしれない",
+        "category": "基本"
+    },
+
+
+
+
+
+    {
+        "phrase": "I have to (do)",
         "meaning": "～しなければならない",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I've got to 原形",
+        "phrase": "I've got to (do)",
         "meaning": "～しなきゃ",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I need to 原形",
+        "phrase": "I need to (do)",
         "meaning": "～する必要がある",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I want to 原形",
+        "phrase": "I want to (do)",
         "meaning": "～したい",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I'd like to 原形",
+        "phrase": "I'd like to (do)",
         "meaning": "～したい（丁寧）",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I hope to 原形",
+        "phrase": "I hope to (do)",
         "meaning": "～できたらいいな（控えめ）",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I wish to 原形",
+        "phrase": "I wish to (do)",
         "meaning": "～したいです（とても丁寧）",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I expect to 原形",
+        "phrase": "I expect to (do)",
         "meaning": "～するつもり",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I promise to 原形",
+        "phrase": "I promise to (do)",
         "meaning": "～するのを約束する",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I agree to 原形",
+        "phrase": "I agree to (do)",
         "meaning": "～するのに同意する",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I try to 原形",
+        "phrase": "I try to (do)",
         "meaning": "～しようと努力する",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I struggle to 原形",
+        "phrase": "I struggle to (do)",
         "meaning": "～するのに苦戦する",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I offer to 原形",
+        "phrase": "I offer to (do)",
         "meaning": "～するのを申し出る",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I attempted to 原形",
+        "phrase": "I attempted to (do)",
         "meaning": "～しようと試みた",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I learned to 原形",
+        "phrase": "I learned to (do)",
         "meaning": "～できるようになった",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I decided to 原形",
+        "phrase": "I decided to (do)",
         "meaning": "～することを決めた",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I forgot to 原形",
+        "phrase": "I forgot to (do)",
         "meaning": "～することを忘れた",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I failed to 原形",
+        "phrase": "I failed to (do)",
         "meaning": "～しそこなった",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I refused to 原形",
+        "phrase": "I refused to (do)",
         "meaning": "～するのを拒んだ",
         "category": "動作に向かう"
     },
     {
-        "phrase": "I used to 原形",
+        "phrase": "I used to (do)",
         "meaning": "昔は～していた（今は違う）",
         "category": "動作に向かう"
     },
@@ -105,77 +160,77 @@
 
 
     {
-        "phrase": "I’m going to 原形",
+        "phrase": "I’m going to (do)",
         "meaning": "未来全般",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m about to 原形",
+        "phrase": "I’m about to (do)",
         "meaning": "まさに～しようとしている",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m planning to 原形",
+        "phrase": "I’m planning to (do)",
         "meaning": "～するのを予定している",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m supposed to 原形",
+        "phrase": "I’m supposed to (do)",
         "meaning": "～することになっている（義務・期待）",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m determined to 原形",
+        "phrase": "I’m determined to (do)",
         "meaning": "～するのを決心している",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m willing to 原形",
+        "phrase": "I’m willing to (do)",
         "meaning": "～しても構わない",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m unwilling to 原形",
+        "phrase": "I’m unwilling to (do)",
         "meaning": "～するのに気乗りしない",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m hoping to 原形",
+        "phrase": "I’m hoping to (do)",
         "meaning": "～できたらいいなと思う（控えめ）",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m excited to 原形",
+        "phrase": "I’m excited to (do)",
         "meaning": "～するのが楽しみ",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m eager to 原形",
+        "phrase": "I’m eager to (do)",
         "meaning": "～したくてたまらない（わくわく）",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m anxious to 原形",
+        "phrase": "I’m anxious to (do)",
         "meaning": "～したくてたまらない（そわそわ）",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m dying to 原形",
+        "phrase": "I’m dying to (do)",
         "meaning": "死ぬほど～したい！",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m ready to 原形",
+        "phrase": "I’m ready to (do)",
         "meaning": "～する準備ができている",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m able to 原形",
+        "phrase": "I’m able to (do)",
         "meaning": "～することができる",
         "category": "動作に向かう気持ち"
     },
     {
-        "phrase": "I’m unable to 原形",
+        "phrase": "I’m unable to (do)",
         "meaning": "～することができない",
         "category": "動作に向かう気持ち"
     },
