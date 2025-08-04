@@ -70,6 +70,11 @@
         "category": "動作に向かう"
     },
     {
+        "phrase": "I had to (do)",
+        "meaning": "～しなければならなかった",
+        "category": "動作に向かう"
+    },
+    {
         "phrase": "I've got to (do)",
         "meaning": "～しなきゃ",
         "category": "動作に向かう"
@@ -164,7 +169,112 @@
         "meaning": "昔は～していた（今は違う）",
         "category": "動作に向かう"
     },
-    
+
+
+
+
+
+    {
+        "phrase": "I’m (adj)",
+        "meaning": "～の状態である",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m interested in (sth)",
+        "meaning": "～に興味がある",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m caught in (sth)",
+        "meaning": "(雨など)にあう",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m tired of (sth)",
+        "meaning": "～にうんざりしている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m fed up with (sth)",
+        "meaning": "～にうんざりしている（かため）",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m worried about (sth)",
+        "meaning": "～を心配している",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m frightened of (sth)",
+        "meaning": "～に怖がっている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m pleased with (sth)",
+        "meaning": "～に喜んでいる",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m satisfied with (sth)",
+        "meaning": "～に満足している",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m delighted with (sth)",
+        "meaning": "～に大喜びである",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m surprised at (sth)",
+        "meaning": "～に驚いている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m amazed at (sth)",
+        "meaning": "～にひどく驚いている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m disappointed at (sth)",
+        "meaning": "～にがっかりしている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m shocked at (sth)",
+        "meaning": "～にショックを受けている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m excited at (sth)",
+        "meaning": "～に興奮している",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m looking forward to (sth)",
+        "meaning": "～を楽しみにしている（丁寧）",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m used to (sth)",
+        "meaning": "～に慣れている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m accustomed to (sth)",
+        "meaning": "～に慣れている",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m opposed to (sth)",
+        "meaning": "～に反対している",
+        "category": "今の状態"
+    },
+    {
+        "phrase": "I’m committed to (sth)",
+        "meaning": "～に熱心に取り組んでいる",
+        "category": "今の状態"
+    },
+
 
 
 
@@ -172,82 +282,82 @@
     {
         "phrase": "I’m going to (do)",
         "meaning": "未来全般",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m about to (do)",
         "meaning": "まさに～しようとしている",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m planning to (do)",
         "meaning": "～するのを予定している",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m supposed to (do)",
         "meaning": "～することになっている（義務・期待）",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m determined to (do)",
         "meaning": "～するのを決心している",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m trying to (do)",
         "meaning": "～しようと頑張っている",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m willing to (do)",
         "meaning": "～しても構わない",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m unwilling to (do)",
         "meaning": "～するのに気乗りしない",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m hoping to (do)",
         "meaning": "～できたらいいなと思う（控えめ）",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m excited to (do)",
         "meaning": "～するのが楽しみ",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m eager to (do)",
         "meaning": "～したくてたまらない（わくわく）",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m anxious to (do)",
         "meaning": "～したくてたまらない（そわそわ）",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m dying to (do)",
         "meaning": "死ぬほど～したい！",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m ready to (do)",
         "meaning": "～する準備ができている",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m able to (do)",
         "meaning": "～することができる",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
     {
         "phrase": "I’m unable to (do)",
         "meaning": "～することができない",
-        "category": "動作に向かう気持ち"
+        "category": "動作に向かう今の状態"
     },
 
 
@@ -257,141 +367,56 @@
     {
         "phrase": "I feel like (sth)",
         "meaning": "～な気分である",
-        "category": "何かに対する気持ち"
+        "category": "主観的な意見"
     },
     {
-        "phrase": "I’m interested in (sth)",
-        "meaning": "～に興味がある",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m tired of (sth)",
-        "meaning": "～にうんざりしている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m fed up with (sth)",
-        "meaning": "～にうんざりしている（かため）",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m worried about (sth)",
-        "meaning": "～を心配している",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m frightened of (sth)",
-        "meaning": "～に怖がっている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m pleased with (sth)",
-        "meaning": "～に喜んでいる",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m satisfied with (sth)",
-        "meaning": "～に満足している",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m delighted with (sth)",
-        "meaning": "～に大喜びである",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m surprised at (sth)",
-        "meaning": "～に驚いている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m amazed at (sth)",
-        "meaning": "～にひどく驚いている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m disappointed at (sth)",
-        "meaning": "～にがっかりしている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m shocked at (sth)",
-        "meaning": "～にショックを受けている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m excited at (sth)",
-        "meaning": "～に興奮している",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m looking forward to (sth)",
-        "meaning": "～を楽しみにしている（丁寧）",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m used to (sth)",
-        "meaning": "～に慣れている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m accustomed to (sth)",
-        "meaning": "～に慣れている",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m opposed to (sth)",
-        "meaning": "～に反対している",
-        "category": "何かに対する気持ち"
-    },
-    {
-        "phrase": "I’m committed to (sth)",
-        "meaning": "～に熱心に取り組んでいる",
-        "category": "何かに対する気持ち"
-    },
-
-
-
-
-
-    {
-        "phrase": "I think (that) 文",
+        "phrase": "I think (SV)",
         "meaning": "～だと思う",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I thought (that) 文",
+        "phrase": "I thought (SV)",
         "meaning": "～だと思っていた",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I assume (that) 文",
+        "phrase": "I assume (SV)",
         "meaning": "～だと思っている（決めつけ）",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I guess (that) 文",
+        "phrase": "I guess (SV)",
         "meaning": "多分～かな",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I hope (that) 文",
+        "phrase": "I hope (SV)",
         "meaning": "～だといいな",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I wish (that) 文：仮定法",
+        "phrase": "I wish (SV) 仮定法",
         "meaning": "～だったらいいのに（妄想）",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I regret (that) 文",
+        "phrase": "I regret (SV)",
         "meaning": "～ということを残念に思う",
         "category": "主観的な意見"
     },
     {
-        "phrase": "I’m sure (that) 文",
+        "phrase": "I’m sure (SV)",
         "meaning": "～だと確信している",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I suggest (S do)",
+        "meaning": "～ということを提案する",
+        "category": "主観的な意見"
+    },
+    {
+        "phrase": "I recommend (S do)",
+        "meaning": "～ということを勧める",
         "category": "主観的な意見"
     },
 
@@ -400,17 +425,17 @@
 
     
     {
-        "phrase": "It’s said (that) 文",
+        "phrase": "It’s said (SV)",
         "meaning": "～だと言われている",
         "category": "客観的な意見"
     },
     {
-        "phrase": "It seems (that) 文",
+        "phrase": "It seems (SV)",
         "meaning": "～だと思われる",
         "category": "客観的な意見"
     },
     {
-        "phrase": "It appears (that) 文",
+        "phrase": "It appears (SV)",
         "meaning": "どうやら～らしい",
         "category": "客観的な意見"
     }
