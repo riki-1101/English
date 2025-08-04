@@ -98,5 +98,178 @@
         "phrase": "I used to 原形",
         "ja": "昔は～していた（今は違う）",
         "category": "動作に向かう"
+    },
+    
+    {
+        "phrase": "I’m going to 原形",
+        "meaning": "未来全般",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m about to 原形",
+        "meaning": "まさに～しようとしている",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m planning to 原形",
+        "meaning": "～するのを予定している",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m supposed to 原形",
+        "meaning": "～することになっている（義務・期待）",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m determined to 原形",
+        "meaning": "～するのを決心している",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m willing to 原形",
+        "meaning": "～しても構わない",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m unwilling to 原形",
+        "meaning": "～するのに気乗りしない",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m hoping to 原形",
+        "meaning": "～できたらいいなと思う（控えめ）",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m excited to 原形",
+        "meaning": "～するのが楽しみ",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m eager to 原形",
+        "meaning": "～したくてたまらない（わくわく）",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m anxious to 原形",
+        "meaning": "～したくてたまらない（そわそわ）",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m dying to 原形",
+        "meaning": "超～したい！（スラング気味）",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m ready to 原形",
+        "meaning": "～する準備ができている",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m able to 原形",
+        "meaning": "～することができる",
+        "category": "動作に向かう気持ち"
+    },
+    {
+        "phrase": "I’m unable to 原形",
+        "meaning": "～することができない",
+        "category": "動作に向かう気持ち"
+    },
+
+    {
+        "phrase": "I feel like (something)",
+        "meaning": "～な気分である",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m interested in (something)",
+        "meaning": "～に興味がある",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m tired of (something)",
+        "meaning": "～にうんざりしている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m fed up with (something)",
+        "meaning": "～にうんざりしている（かため）",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m worried about (something)",
+        "meaning": "～を心配している",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m frightened of (something)",
+        "meaning": "～に怖がっている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m pleased with (something)",
+        "meaning": "～に喜んでいる",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m satisfied with (something)",
+        "meaning": "～に満足している",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m delighted with (something)",
+        "meaning": "～に大喜びである",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m surprised at (something)",
+        "meaning": "～に驚いている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m amazed at (something)",
+        "meaning": "～にひどく驚いている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m disappointed at (something)",
+        "meaning": "～にがっかりしている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m shocked at (something)",
+        "meaning": "～にショックを受けている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m excited at (something)",
+        "meaning": "～に興奮している",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m looking forward to (something)",
+        "meaning": "～を楽しみにしている（丁寧）",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m used to (something)",
+        "meaning": "～に慣れている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m accustomed to (something)",
+        "meaning": "～に慣れている",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m opposed to (something)",
+        "meaning": "～に反対している",
+        "category": "何かに対する気持ち"
+    },
+    {
+        "phrase": "I’m committed to (something)",
+        "meaning": "～に熱心に取り組んでいる",
+        "category": "何かに対する気持ち"
     }
+
 ]
