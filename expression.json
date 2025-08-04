@@ -1,0 +1,102 @@
+[
+    {
+        "phrase": "I have to 原形",
+        "ja": "～しなければならない",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I've got to 原形",
+        "ja": "～しなきゃ",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I need to 原形",
+        "ja": "～する必要がある",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I want to 原形",
+        "ja": "～したい",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I'd like to 原形",
+        "ja": "～したい（丁寧）",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I hope to 原形",
+        "ja": "～できたらいいな（控えめ）",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I wish to 原形",
+        "ja": "～したいです（とても丁寧）",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I expect to 原形",
+        "ja": "～するつもり",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I promise to 原形",
+        "ja": "～するのを約束する",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I agree to 原形",
+        "ja": "～するのに同意する",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I try to 原形",
+        "ja": "～しようと努力する",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I struggle to 原形",
+        "ja": "～するのに苦戦する",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I offer to 原形",
+        "ja": "～するのを申し出る",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I attempted to 原形",
+        "ja": "～しようと試みた",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I learned to 原形",
+        "ja": "～できるようになった",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I decided to 原形",
+        "ja": "～することを決めた",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I forgot to 原形",
+        "ja": "～することを忘れた",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I failed to 原形",
+        "ja": "～しそこなった",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I refused to 原形",
+        "ja": "～するのを拒んだ",
+        "category": "動作に向かう"
+    },
+    {
+        "phrase": "I used to 原形",
+        "ja": "昔は～していた（今は違う）",
+        "category": "動作に向かう"
+    }
+]

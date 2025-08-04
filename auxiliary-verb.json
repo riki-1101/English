@@ -1,0 +1,118 @@
+[
+    {
+        "phrase": "I can",
+        "ja": "～できる"
+    },
+    {
+        "phrase": "You can",
+        "ja": "～してもよい"
+    },
+    {
+        "phrase": "You'll be able to",
+        "ja": "～できるだろう"
+    },
+    {
+        "phrase": "S can't be",
+        "ja": "～のはずがない"
+    },
+    {
+        "phrase": "You may",
+        "ja": "～してもよい"
+    },
+    {
+        "phrase": "S may be",
+        "ja": "～かもしれない"
+    },
+    {
+        "phrase": "I must",
+        "ja": "～しなければならない"
+    },
+    {
+        "phrase": "You must not",
+        "ja": "～してはいけない"
+    },
+    {
+        "phrase": "S must be",
+        "ja": "～に違いない"
+    },
+    {
+        "phrase": "You should",
+        "ja": "～すべきだ、～のはずだ"
+    },
+    {
+        "phrase": "You ought to",
+        "ja": "～すべきだ、～のはずだ"
+    },
+    {
+        "phrase": "I will",
+        "ja": "～する意志がある"
+    },
+    {
+        "phrase": "I won't",
+        "ja": "～する意志がない"
+    },
+    {
+        "phrase": "I have to",
+        "ja": "～しなければならない"
+    },
+    {
+        "phrase": "You don't have to",
+        "ja": "～しなくてよい"
+    },
+    {
+        "phrase": "You only have to",
+        "ja": "～しさえすればよい"
+    },
+    {
+        "phrase": "You had better",
+        "ja": "～しなさい"
+    },
+    {
+        "phrase": "You had better not",
+        "ja": "～するな"
+    },
+    {
+        "phrase": "I used to",
+        "ja": "～したものだ"
+    },
+    {
+        "phrase": "There used to be",
+        "ja": "かつて～があった"
+    },
+    {
+        "phrase": "I'm supposed to",
+        "ja": "～することになっている"
+    },
+    {
+        "phrase": "I need to",
+        "ja": "～する必要がある"
+    },
+    {
+        "phrase": "I dare",
+        "ja": "あえて～する"
+    },
+    {
+        "phrase": "I'd like to",
+        "ja": "～したいです"
+    },
+    {
+        "phrase": "I'd rather",
+        "ja": "むしろ～したい"
+    },
+    {
+        "phrase": "I'd rather not",
+        "ja": "どちらかと言えば～したくない"
+    },
+    {
+        "phrase": "He may well",
+        "ja": "おそらく～するだろう"
+    },
+    {
+        "phrase": "We may as well",
+        "ja": "～するほうがましだ"
+    },
+    {
+        "phrase": "I cannot help but",
+        "ja": "～せざるを得ない"
+    }
+]

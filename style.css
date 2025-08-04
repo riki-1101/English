@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Hiragino Kaku Gothic Pro", "ヒラギノ角ゴ Pro W3", "Meiryo", sans-serif;
+    font-size: small;
+    margin: 2em;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+a {
+    text-decoration: none;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+p {
+    padding: 0 1em;
+    line-height: 2;
+}
+
+select {
+    padding: 2px 5px;
+}
+
+#list {
+    list-style: none;
+    padding: 0;
+}
+#list li {
+    padding: 0.8em;
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "serif";
+    font-size: 2em;
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Speaking</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <h1>Speaking</h1>
+        <select id="category-filter" onchange="filterList()" aria-label="カテゴリ選択">
+            <option value="動作に向かう">動作に向かう</option>
+            <option value="動作に向かう気持ち">動作に向かう気持ち</option>
+            <option value="何かに対する気持ち">何かに対する気持ち</option>
+            <option value="主観的な意見">主観的な意見</option>
+            <option value="客観的な判断">客観的な判断</option>
+        </select>
+        <ul id="list"></ul>
+        <script>
+            let data = [];  // JSON データを保存
+            document.addEventListener("DOMContentLoaded", function () {
+                fetch("expression.json")
+                .then(response => response.json())
+                .then(json => {
+                    data = json;
+                    filterList();
+                })
+                .catch(error => console.error("JSON の読み込みエラー:", error));
+            });
+
+            // フィルタ機能
+            function filterList() {
+                const selectedCategory = document.getElementById("category-filter").value;
+                const filteredData = data.filter(item =>
+                    item.category === selectedCategory
+                );
+                renderList(filteredData);
+            }
+
+            // リストを表示
+            function renderList(filteredData) {
+                const list = document.getElementById("list");
+                list.innerHTML = "";
+                filteredData.forEach(item => {
+                    const li = document.createElement("li");
+                    li.textContent = item.phrase;
+                    list.appendChild(li);
+                });
+            }
+        </script>
+    </main>
+</body>
+</html>
