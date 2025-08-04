@@ -102,6 +102,8 @@
     
 
 
+
+
     {
         "phrase": "I’m going to 原形",
         "meaning": "未来全般",
@@ -177,6 +179,8 @@
         "meaning": "～することができない",
         "category": "動作に向かう気持ち"
     },
+
+
 
 
 
@@ -278,6 +282,8 @@
 
 
 
+
+
     {
         "phrase": "I think (that) 文",
         "meaning": "～だと思う",
@@ -317,10 +323,12 @@
         "phrase": "I’m sure (that) 文",
         "meaning": "～だと確信している",
         "category": "主観的な意見"
-    }
+    },
 
 
 
+
+    
     {
         "phrase": "It’s said (that) 文",
         "meaning": "～だと言われている",
