@@ -195,6 +195,11 @@
         "category": "動作に向かう気持ち"
     },
     {
+        "phrase": "I’m trying to (do)",
+        "meaning": "～しようと頑張っている",
+        "category": "動作に向かう気持ち"
+    },
+    {
         "phrase": "I’m willing to (do)",
         "meaning": "～しても構わない",
         "category": "動作に向かう気持ち"
