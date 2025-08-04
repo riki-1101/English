@@ -1,0 +1,37 @@
+[
+    {
+        "phrase": "It's kind of (adj)",
+        "meaning": "なんかちょっと～だね",
+        "category": "状態"
+    },
+    {
+        "phrase": "It's a bit (adj)",
+        "meaning": "ちょっと～だね",
+        "category": "状態"
+    },
+    {
+        "phrase": "It's a little (adj)",
+        "meaning": "ちょっと～だね",
+        "category": "状態"
+    },
+
+
+
+
+
+    {
+        "phrase": "It’s said (SV)",
+        "meaning": "～だと言われている",
+        "category": "意見"
+    },
+    {
+        "phrase": "It seems (SV)",
+        "meaning": "～だと思われる",
+        "category": "意見"
+    },
+    {
+        "phrase": "It appears (SV)",
+        "meaning": "どうやら～らしい",
+        "category": "意見"
+    }
+]

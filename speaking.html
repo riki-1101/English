@@ -9,33 +9,46 @@
 <body>
     <main>
         <h1>Speaking</h1>
+        <p>
+            I：主観的<br>
+            It：客観的<br>
+            動詞の原形：確定している動作<br>
+            to do：確定している基本<br>
+            that SV：論理的
+        </p>
+        <select id="subject" onchange="loadData()" aria-label="主語選択">
+            <option value="expression-i.json">I</option>
+            <option value="expression-you.json">You</option>
+            <option value="expression-it.json">It</option>
+        </select>
         <select id="category-filter" onchange="filterList()" aria-label="カテゴリ選択">
             <option value="基本">基本</option>
-            <option value="動作に向かう">動作に向かう</option>
-            <option value="今の状態">今の状態</option>
-            <option value="動作に向かう今の状態">動作に向かう今の状態</option>
-            <option value="主観的な意見">主観的な意見</option>
-            <option value="客観的な意見">客観的な意見</option>
+            <option value="状態">状態</option>
+            <option value="意見">意見</option>
         </select>
         <ul id="list"></ul>
         <script>
-            let data = [];  // JSON データを保存
+            let data = [];
             document.addEventListener("DOMContentLoaded", function () {
-                fetch("expression.json")
-                .then(response => response.json())
-                .then(json => {
-                    data = json;
-                    filterList();
-                })
-                .catch(error => console.error("JSON の読み込みエラー:", error));
+                loadData();
             });
 
-            // フィルタ機能
+            // 主語に応じてJSONを読み込む
+            function loadData() {
+                const filename = document.getElementById("subject").value;
+                fetch(filename)
+                    .then(response => response.json())
+                    .then(json => {
+                    data = json;
+                    filterList();
+                    })
+                    .catch(error => console.error("JSON の読み込みエラー:", error));
+            }
+
+            // カテゴリに応じてリストをフィルタ
             function filterList() {
                 const selectedCategory = document.getElementById("category-filter").value;
-                const filteredData = data.filter(item =>
-                    item.category === selectedCategory
-                );
+                const filteredData = data.filter(item => item.category === selectedCategory);
                 renderList(filteredData);
             }
 
@@ -44,9 +57,9 @@
                 const list = document.getElementById("list");
                 list.innerHTML = "";
                 filteredData.forEach(item => {
-                    const li = document.createElement("li");
-                    li.textContent = item.phrase;
-                    list.appendChild(li);
+                const li = document.createElement("li");
+                li.textContent = item.phrase;
+                list.appendChild(li);
                 });
             }
         </script>

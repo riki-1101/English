@@ -26,7 +26,112 @@
     },
     {
         "phrase": "I should (do)",
-        "meaning": "～するのが普通である",
+        "meaning": "～した方がいい",
+        "category": "基本"
+    },
+    {
+        "phrase": "I have to (do)",
+        "meaning": "～しなければならない",
+        "category": "基本"
+    },
+    {
+        "phrase": "I had to (do)",
+        "meaning": "～しなければならなかった",
+        "category": "基本"
+    },
+    {
+        "phrase": "I've got to (do)",
+        "meaning": "～しなきゃ",
+        "category": "基本"
+    },
+    {
+        "phrase": "I need to (do)",
+        "meaning": "～する必要がある",
+        "category": "基本"
+    },
+    {
+        "phrase": "I want to (do)",
+        "meaning": "～したい",
+        "category": "基本"
+    },
+    {
+        "phrase": "I'd like to (do)",
+        "meaning": "～したい（丁寧）",
+        "category": "基本"
+    },
+    {
+        "phrase": "I hope to (do)",
+        "meaning": "～できたらいいな（控えめ）",
+        "category": "基本"
+    },
+    {
+        "phrase": "I wish to (do)",
+        "meaning": "～したいです（とても丁寧）",
+        "category": "基本"
+    },
+    {
+        "phrase": "I expect to (do)",
+        "meaning": "～するつもり",
+        "category": "基本"
+    },
+    {
+        "phrase": "I promise to (do)",
+        "meaning": "～するのを約束する",
+        "category": "基本"
+    },
+    {
+        "phrase": "I agree to (do)",
+        "meaning": "～するのに同意する",
+        "category": "基本"
+    },
+    {
+        "phrase": "I try to (do)",
+        "meaning": "～しようと努力する",
+        "category": "基本"
+    },
+    {
+        "phrase": "I struggle to (do)",
+        "meaning": "～するのに苦戦する",
+        "category": "基本"
+    },
+    {
+        "phrase": "I offer to (do)",
+        "meaning": "～するのを申し出る",
+        "category": "基本"
+    },
+    {
+        "phrase": "I attempted to (do)",
+        "meaning": "～しようと試みた",
+        "category": "基本"
+    },
+    {
+        "phrase": "I learned to (do)",
+        "meaning": "～できるようになった",
+        "category": "基本"
+    },
+    {
+        "phrase": "I decided to (do)",
+        "meaning": "～することを決めた",
+        "category": "基本"
+    },
+    {
+        "phrase": "I forgot to (do)",
+        "meaning": "～することを忘れた",
+        "category": "基本"
+    },
+    {
+        "phrase": "I failed to (do)",
+        "meaning": "～しそこなった",
+        "category": "基本"
+    },
+    {
+        "phrase": "I refused to (do)",
+        "meaning": "～するのを拒んだ",
+        "category": "基本"
+    },
+    {
+        "phrase": "I used to (do)",
+        "meaning": "昔は～していた（今は違う）",
         "category": "基本"
     },
     {
@@ -65,378 +170,253 @@
 
 
     {
-        "phrase": "I have to (do)",
-        "meaning": "～しなければならない",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I had to (do)",
-        "meaning": "～しなければならなかった",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I've got to (do)",
-        "meaning": "～しなきゃ",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I need to (do)",
-        "meaning": "～する必要がある",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I want to (do)",
-        "meaning": "～したい",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I'd like to (do)",
-        "meaning": "～したい（丁寧）",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I hope to (do)",
-        "meaning": "～できたらいいな（控えめ）",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I wish to (do)",
-        "meaning": "～したいです（とても丁寧）",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I expect to (do)",
-        "meaning": "～するつもり",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I promise to (do)",
-        "meaning": "～するのを約束する",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I agree to (do)",
-        "meaning": "～するのに同意する",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I try to (do)",
-        "meaning": "～しようと努力する",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I struggle to (do)",
-        "meaning": "～するのに苦戦する",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I offer to (do)",
-        "meaning": "～するのを申し出る",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I attempted to (do)",
-        "meaning": "～しようと試みた",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I learned to (do)",
-        "meaning": "～できるようになった",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I decided to (do)",
-        "meaning": "～することを決めた",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I forgot to (do)",
-        "meaning": "～することを忘れた",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I failed to (do)",
-        "meaning": "～しそこなった",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I refused to (do)",
-        "meaning": "～するのを拒んだ",
-        "category": "動作に向かう"
-    },
-    {
-        "phrase": "I used to (do)",
-        "meaning": "昔は～していた（今は違う）",
-        "category": "動作に向かう"
-    },
-
-
-
-
-
-    {
         "phrase": "I’m (adj)",
         "meaning": "～の状態である",
-        "category": "今の状態"
+        "category": "状態"
+    },
+    {
+        "phrase": "I was (adj)",
+        "meaning": "～の状態だった",
+        "category": "状態"
+    },
+    {
+        "phrase": "I was just (adj)",
+        "meaning": "～していたところ",
+        "category": "状態"
     },
     {
         "phrase": "I’m interested in (sth)",
         "meaning": "～に興味がある",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m caught in (sth)",
         "meaning": "(雨など)にあう",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m tired of (sth)",
         "meaning": "～にうんざりしている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m fed up with (sth)",
         "meaning": "～にうんざりしている（かため）",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m worried about (sth)",
         "meaning": "～を心配している",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m frightened of (sth)",
         "meaning": "～に怖がっている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m pleased with (sth)",
         "meaning": "～に喜んでいる",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m satisfied with (sth)",
         "meaning": "～に満足している",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m delighted with (sth)",
         "meaning": "～に大喜びである",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m surprised at (sth)",
         "meaning": "～に驚いている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m amazed at (sth)",
         "meaning": "～にひどく驚いている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m disappointed at (sth)",
         "meaning": "～にがっかりしている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m shocked at (sth)",
         "meaning": "～にショックを受けている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m excited at (sth)",
         "meaning": "～に興奮している",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m looking forward to (sth)",
         "meaning": "～を楽しみにしている（丁寧）",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m used to (sth)",
         "meaning": "～に慣れている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m accustomed to (sth)",
         "meaning": "～に慣れている",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m opposed to (sth)",
         "meaning": "～に反対している",
-        "category": "今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m committed to (sth)",
         "meaning": "～に熱心に取り組んでいる",
-        "category": "今の状態"
+        "category": "状態"
     },
-
-
-
-
-
     {
         "phrase": "I’m going to (do)",
         "meaning": "未来全般",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m about to (do)",
         "meaning": "まさに～しようとしている",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m planning to (do)",
         "meaning": "～するのを予定している",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m supposed to (do)",
         "meaning": "～することになっている（義務・期待）",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m determined to (do)",
         "meaning": "～するのを決心している",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m trying to (do)",
         "meaning": "～しようと頑張っている",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m willing to (do)",
         "meaning": "～しても構わない",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m unwilling to (do)",
         "meaning": "～するのに気乗りしない",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m hoping to (do)",
         "meaning": "～できたらいいなと思う（控えめ）",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m excited to (do)",
         "meaning": "～するのが楽しみ",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m eager to (do)",
         "meaning": "～したくてたまらない（わくわく）",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m anxious to (do)",
         "meaning": "～したくてたまらない（そわそわ）",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m dying to (do)",
         "meaning": "死ぬほど～したい！",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m ready to (do)",
         "meaning": "～する準備ができている",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m able to (do)",
         "meaning": "～することができる",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
     {
         "phrase": "I’m unable to (do)",
         "meaning": "～することができない",
-        "category": "動作に向かう今の状態"
+        "category": "状態"
     },
-
-
-
-
-
     {
         "phrase": "I feel like (sth)",
         "meaning": "～な気分である",
-        "category": "主観的な意見"
+        "category": "状態"
     },
+
+
+
+
+
     {
         "phrase": "I think (SV)",
         "meaning": "～だと思う",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I thought (SV)",
         "meaning": "～だと思っていた",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I assume (SV)",
         "meaning": "～だと思っている（決めつけ）",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I guess (SV)",
         "meaning": "多分～かな",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I hope (SV)",
         "meaning": "～だといいな",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I wish (SV) 仮定法",
         "meaning": "～だったらいいのに（妄想）",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I regret (SV)",
         "meaning": "～ということを残念に思う",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I’m sure (SV)",
         "meaning": "～だと確信している",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I suggest (S do)",
         "meaning": "～ということを提案する",
-        "category": "主観的な意見"
+        "category": "意見"
     },
     {
         "phrase": "I recommend (S do)",
         "meaning": "～ということを勧める",
-        "category": "主観的な意見"
-    },
-
-
-
-
-    
-    {
-        "phrase": "It’s said (SV)",
-        "meaning": "～だと言われている",
-        "category": "客観的な意見"
-    },
-    {
-        "phrase": "It seems (SV)",
-        "meaning": "～だと思われる",
-        "category": "客観的な意見"
-    },
-    {
-        "phrase": "It appears (SV)",
-        "meaning": "どうやら～らしい",
-        "category": "客観的な意見"
+        "category": "意見"
     }
 ]
