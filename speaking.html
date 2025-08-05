@@ -29,10 +29,8 @@
         <ul id="list"></ul>
         <div id="popup" class="modal">
             <div class="modal-content">
-                <span id="close-btn">&times;</span>
                 <p id="phrase"></p>
                 <p id="meaning"></p>
-                
             </div>
         </div>
         <script>
@@ -86,9 +84,13 @@
                 });
             }
 
-            document.getElementById("close-btn").onclick = function () {
-                document.getElementById("popup").style.display = "none";
-            };
+            // 背景クリックで閉じる
+            document.getElementById("popup").addEventListener("click", function (event) {
+            // popup-contentの外側がクリックされた場合のみ閉じる
+            if (event.target === this) {
+                this.style.display = "none";
+            }
+            });
         </script>
     </main>
 </body>
