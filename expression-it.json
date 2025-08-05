@@ -35,6 +35,11 @@
         "category": "意見"
     },
     {
+        "phrase": "It’s clear (SV)",
+        "meaning": "～は明らかである",
+        "category": "意見"
+    },
+    {
         "phrase": "It’s true (SV), but (SV)",
         "meaning": "～は本当だが、～だ",
         "category": "意見"

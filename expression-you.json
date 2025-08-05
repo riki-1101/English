@@ -15,13 +15,18 @@
         "category": "基本"
     },
     {
+        "phrase": "You must (do)",
+        "meaning": "～しなければならない",
+        "category": "基本"
+    },
+    {
         "phrase": "You'd better (do)",
         "meaning": "～しなさいよ",
         "category": "基本"
     },
     {
-        "phrase": "You must (do)",
-        "meaning": "～しなければならない",
+        "phrase": "You could've (done)",
+        "meaning": "(過去に)～しておけよ！",
         "category": "基本"
     },
 
