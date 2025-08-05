@@ -27,6 +27,14 @@
             <option value="意見">意見</option>
         </select>
         <ul id="list"></ul>
+        <div id="popup" class="modal">
+            <div class="modal-content">
+                <span id="close-btn">&times;</span>
+                <p id="phrase"></p>
+                <p id="meaning"></p>
+                
+            </div>
+        </div>
         <script>
             let data = [];
             document.addEventListener("DOMContentLoaded", function () {
@@ -45,11 +53,26 @@
                     .catch(error => console.error("JSON の読み込みエラー:", error));
             }
 
-            // カテゴリに応じてリストをフィルタ
+            // フィルタ
             function filterList() {
                 const selectedCategory = document.getElementById("category-filter").value;
+                const listElement = document.getElementById("list");
+                listElement.innerHTML = "";
                 const filteredData = data.filter(item => item.category === selectedCategory);
-                renderList(filteredData);
+
+                filteredData.forEach(item => {
+                    const li = document.createElement("li");
+                    li.textContent = item.phrase;
+                    li.className = "list-item";
+
+                    // モーダル表示処理
+                    li.onclick = function () {
+                        document.getElementById("phrase").textContent = item.phrase;
+                        document.getElementById("meaning").textContent = item.meaning;
+                        document.getElementById("popup").style.display = "flex";
+                    };
+                    listElement.appendChild(li);
+                });
             }
 
             // リストを表示
@@ -62,6 +85,10 @@
                 list.appendChild(li);
                 });
             }
+
+            document.getElementById("close-btn").onclick = function () {
+                document.getElementById("popup").style.display = "none";
+            };
         </script>
     </main>
 </body>
