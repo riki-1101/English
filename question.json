@@ -1,0 +1,61 @@
+[
+    {
+        "phrase": "Do you (do)...?",
+        "meaning": "普段～する？",
+        "category": "基本"
+    },
+    {
+        "phrase": "Don't you (do)...?",
+        "meaning": "普段～する？（答えはNoと思って聞く）",
+        "category": "基本"
+    },
+    {
+        "phrase": "Did you (do)...?",
+        "meaning": "～した？",
+        "category": "基本"
+    },
+    {
+        "phrase": "Didn't you (do)...?",
+        "meaning": "～した？（答えはNoと思って聞く）",
+        "category": "基本"
+    },
+    {
+        "phrase": "Have you (done)...?",
+        "meaning": "今までに～してる？",
+        "category": "基本"
+    },
+    {
+        "phrase": "Haven't you (done)...?",
+        "meaning": "今までに～してる？（答えはNoと思って聞く）",
+        "category": "基本"
+    },
+    {
+        "phrase": "Have you ever (done)...?",
+        "meaning": "今までに一度は～したことある？",
+        "category": "基本"
+    },
+    {
+        "phrase": "Do I have to (do)...?",
+        "meaning": "～しないといけない？",
+        "category": "基本"
+    },
+
+
+
+
+    {
+        "phrase": "Do you mind if I (do)...?",
+        "meaning": "～しても構いませんか？",
+        "category": "許可をもらう"
+    },
+
+
+
+
+
+    {
+        "phrase": "Do you think (SV)...?",
+        "meaning": "～だと思いますか？",
+        "category": "意見"
+    }
+]

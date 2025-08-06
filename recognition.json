@@ -1,0 +1,27 @@
+[
+    {
+        "phrase": "I know (SV)",
+        "meaning": "～ということを知っている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I heard (SV)",
+        "meaning": "～ということを聞いた",
+        "type": "主張"
+    },
+    {
+        "phrase": "I found (SV)",
+        "meaning": "～だとわかった",
+        "type": "主張"
+    },
+    {
+        "phrase": "I noticed (SV)",
+        "meaning": "～ということに気づいた",
+        "type": "主張"
+    },
+    {
+        "phrase": "I realized (SV)",
+        "meaning": "～ということに気づいた",
+        "type": "主張"
+    }
+]

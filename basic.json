@@ -1,0 +1,176 @@
+[
+    {
+        "phrase": "I’m (adj)",
+        "meaning": "～の状態である",
+        "type": "主張"
+    },
+    {
+        "phrase": "I was (adj)",
+        "meaning": "～の状態だった",
+        "type": "主張"
+    },
+    {
+        "phrase": "I was just (adj)",
+        "meaning": "～していたところ",
+        "type": "主張"
+    },
+    {
+        "phrase": "It's kind of (adj)",
+        "meaning": "なんかちょっと～だね",
+        "type": "主張"
+    },
+    {
+        "phrase": "It's a bit (adj)",
+        "meaning": "ちょっと～だね",
+        "type": "主張"
+    },
+    {
+        "phrase": "It's a little (adj)",
+        "meaning": "ちょっと～だね",
+        "type": "主張"
+    },
+    {
+        "phrase": "I will (do)",
+        "meaning": "～する意志がある",
+        "type": "主張"
+    },
+    {
+        "phrase": "I'll just go (do)",
+        "meaning": "ちょっと～しに行く",
+        "type": "主張"
+    },
+    {
+        "phrase": "I would often (do)",
+        "meaning": "～したものだ",
+        "type": "主張"
+    },
+    {
+        "phrase": "I'd rather (do)",
+        "meaning": "むしろ～したい",
+        "type": "主張"
+    },
+    {
+        "phrase": "I can (do)",
+        "meaning": "～できる可能性がある",
+        "type": "主張"
+    },
+    {
+        "phrase": "I should (do)",
+        "meaning": "～した方がいい",
+        "type": "主張"
+    },
+    {
+        "phrase": "I've (done)",
+        "meaning": "今までに～している",
+        "type": "主張"
+    },
+    {
+        "phrase": "I've just (done)",
+        "meaning": "ちょうど～したところ",
+        "type": "主張"
+    },
+    {
+        "phrase": "I've never (done)",
+        "meaning": "一度も～していない",
+        "type": "主張"
+    },
+    {
+        "phrase": "I could've (done)",
+        "meaning": "～した可能性があった（実際はしていない）",
+        "type": "主張"
+    },
+    {
+        "phrase": "I would've (done)",
+        "meaning": "～する意志があったのに（実際はしていない）",
+        "type": "主張"
+    },
+    {
+        "phrase": "I should've (done)",
+        "meaning": "～すべきだった",
+        "type": "主張"
+    },
+    {
+        "phrase": "I shouldn't have (done)",
+        "meaning": "～しなきゃよかった",
+        "type": "主張"
+    },
+    {
+        "phrase": "I might've (done)",
+        "meaning": "～したかもしれない",
+        "type": "主張"
+    },
+    {
+        "phrase": "I had (done)",
+        "meaning": "すでに～していた",
+        "type": "主張"
+    },
+
+
+
+
+    {
+        "phrase": "You're (adj)",
+        "meaning": "～の状態だね",
+        "type": "主張"
+    },
+    {
+        "phrase": "You're being (adj)",
+        "meaning": "～っぽいよ（いつもと違う）",
+        "type": "主張"
+    },
+    {
+        "phrase": "You're acting like (sth)",
+        "meaning": "～みたいに振る舞ってるよ（少し批判的）",
+        "type": "主張"
+    },
+    {
+        "phrase": "You seem (adj)",
+        "meaning": "～のように思えるよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You sound (adj)",
+        "meaning": "～のように聞こえるよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You look (adj)",
+        "meaning": "～のように見えるよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You feel (adj)",
+        "meaning": "～と感じているようだね",
+        "type": "主張"
+    },
+    {
+        "phrase": "You can (do)",
+        "meaning": "～できるよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You may (do)",
+        "meaning": "～してもいいですよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You should (do)",
+        "meaning": "～した方がいいよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You must (do)",
+        "meaning": "～しなければならない",
+        "type": "主張"
+    },
+    {
+        "phrase": "You'd better (do)",
+        "meaning": "～しなさいよ",
+        "type": "主張"
+    },
+    {
+        "phrase": "You could've (done)",
+        "meaning": "(過去に)～しておけよ！",
+        "type": "主張"
+    }
+]

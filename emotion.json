@@ -1,0 +1,97 @@
+[
+    {
+        "phrase": "I’m interested in (sth)",
+        "meaning": "～に興味がある",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m tired of (sth)",
+        "meaning": "～にうんざりしている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m fed up with (sth)",
+        "meaning": "～にうんざりしている（かため）",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m worried about (sth)",
+        "meaning": "～を心配している",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m frightened of (sth)",
+        "meaning": "～に怖がっている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m pleased with (sth)",
+        "meaning": "～に喜んでいる",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m satisfied with (sth)",
+        "meaning": "～に満足している",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m delighted with (sth)",
+        "meaning": "～に大喜びである",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m surprised at (sth)",
+        "meaning": "～に驚いている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m amazed at (sth)",
+        "meaning": "～にひどく驚いている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m disappointed at (sth)",
+        "meaning": "～にがっかりしている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m shocked at (sth)",
+        "meaning": "～にショックを受けている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m excited at (sth)",
+        "meaning": "～に興奮している",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m looking forward to (sth)",
+        "meaning": "～を楽しみにしている（丁寧）",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m used to (sth)",
+        "meaning": "～に慣れている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m accustomed to (sth)",
+        "meaning": "～に慣れている",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m opposed to (sth)",
+        "meaning": "～に反対している",
+        "type": "主張"
+    },
+    {
+        "phrase": "I’m committed to (sth)",
+        "meaning": "～に熱心に取り組んでいる",
+        "type": "主張"
+    },
+    {
+        "phrase": "I feel like (sth)",
+        "meaning": "～な気分である",
+        "type": "主張"
+    }
+]

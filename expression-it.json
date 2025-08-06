@@ -1,69 +1,10 @@
 [
-    {
-        "phrase": "It takes (time) to (do)",
-        "meaning": "～するのに(時間)がかかる",
-        "category": "基本"
-    },
+    
 
 
 
 
-
-    {
-        "phrase": "It's kind of (adj)",
-        "meaning": "なんかちょっと～だね",
-        "category": "状態"
-    },
-    {
-        "phrase": "It's a bit (adj)",
-        "meaning": "ちょっと～だね",
-        "category": "状態"
-    },
-    {
-        "phrase": "It's a little (adj)",
-        "meaning": "ちょっと～だね",
-        "category": "状態"
-    },
-
-
-
-
-
-    {
-        "phrase": "It’s said (SV)",
-        "meaning": "～だと言われている",
-        "category": "意見"
-    },
-    {
-        "phrase": "It’s clear (SV)",
-        "meaning": "～は明らかである",
-        "category": "意見"
-    },
-    {
-        "phrase": "It’s true (SV), but (SV)",
-        "meaning": "～は本当だが、～だ",
-        "category": "意見"
-    },
-    {
-        "phrase": "It’s likely (SV)",
-        "meaning": "～しそうだ",
-        "category": "意見"
-    },
-    {
-        "phrase": "It’s unlikely (SV)",
-        "meaning": "～しそうにない",
-        "category": "意見"
-    },
-    {
-        "phrase": "It seems (SV)",
-        "meaning": "～だと思われる",
-        "category": "意見"
-    },
-    {
-        "phrase": "It appears (SV)",
-        "meaning": "どうやら～らしい",
-        "category": "意見"
-    },
+    
     {
         "phrase": "It’s no use (doing)",
         "meaning": "～しても無駄だ",

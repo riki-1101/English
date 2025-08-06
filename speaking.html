@@ -13,19 +13,25 @@
             I：主観的<br>
             It：客観的<br>
             動詞の原形：確定している動作<br>
-            to do：確定している基本<br>
+            to do：確定している動作に向かう<br>
             that SV：論理的
         </p>
-        <select id="subject" onchange="loadData()" aria-label="主語選択">
-            <option value="expression-i.json">I</option>
-            <option value="expression-you.json">You</option>
-            <option value="expression-it.json">It</option>
+        <p>
+            do：動詞原形（一般動詞の原形、be+形容詞）<br>
+            done：過去分詞（一般動詞の過去分詞、been+形容詞）<br>
+            adj：形容詞型（形容詞、分詞）
+        </p>
+        <select id="category" onchange="loadData()" aria-label="カテゴリ選択">
+            <option value="basic.json">基本表現</option>
+            <option value="to-do.json">動作に向かう（to do）</option>
+            <option value="emotion.json">感情</option>
+            <option value="thinking.json">意見（I think + 文）</option>
+            <option value="recognition.json">認識（I know + 文）</option>
         </select>
-        <select id="category-filter" onchange="filterList()" aria-label="カテゴリ選択">
-            <option value="基本">基本</option>
-            <option value="状態">状態</option>
-            <option value="意見">意見</option>
-            <option value="認識">認識</option>
+        <select id="filter" onchange="filterList()" aria-label="選択">
+            <option value="主張">主張</option>
+            <option value="一般論">一般論</option>
+            <option value="質問">質問</option>
         </select>
         <ul id="list"></ul>
         <div id="popup" class="modal">
@@ -40,24 +46,26 @@
                 loadData();
             });
 
-            // 主語に応じてJSONを読み込む
+            // JSONを読み込む
             function loadData() {
-                const filename = document.getElementById("subject").value;
+                const category = document.getElementById("category").value;
+                const filename = `${category}`;
+
                 fetch(filename)
                     .then(response => response.json())
                     .then(json => {
-                    data = json;
-                    filterList();
+                        data = json;
+                        filterList();
                     })
                     .catch(error => console.error("JSON の読み込みエラー:", error));
             }
 
             // フィルタ
             function filterList() {
-                const selectedCategory = document.getElementById("category-filter").value;
+                const selectedCategory = document.getElementById("filter").value;
                 const listElement = document.getElementById("list");
                 listElement.innerHTML = "";
-                const filteredData = data.filter(item => item.category === selectedCategory);
+                const filteredData = data.filter(item => item.type === selectedCategory);
 
                 filteredData.forEach(item => {
                     const li = document.createElement("li");
