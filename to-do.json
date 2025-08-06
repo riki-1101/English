@@ -30,6 +30,11 @@
         "type": "主張"
     },
     {
+        "phrase": "I can't wait to (do)",
+        "meaning": "早く～したいよ（待てない）",
+        "type": "主張"
+    },
+    {
         "phrase": "I hope to (do)",
         "meaning": "～できたらいいな（控えめ）",
         "type": "主張"
@@ -189,6 +194,31 @@
 
 
     
+    {
+        "phrase": "Do you want to (do)...?",
+        "meaning": "～したい？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Do you want me to (do)...?",
+        "meaning": "～しようか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Would you like me to (do)...?",
+        "meaning": "～しましょうか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Do I have to (do)...?",
+        "meaning": "～しないといけない？",
+        "type": "質問"
+    },
+
+
+
+
+
     {
         "phrase": "It takes (time) to (do)",
         "meaning": "～するのに(時間)がかかる",

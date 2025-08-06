@@ -45,6 +45,16 @@
         "type": "主張"
     },
     {
+        "phrase": "I believe (SV)",
+        "meaning": "～だと信じる",
+        "type": "主張"
+    },
+    {
+        "phrase": "I can't believe (SV)",
+        "meaning": "～なんて信じられない",
+        "type": "主張"
+    },
+    {
         "phrase": "I suggest (S do)",
         "meaning": "～ということを提案する",
         "type": "主張"
@@ -108,5 +118,20 @@
         "phrase": "It appears (SV)",
         "meaning": "どうやら～らしい",
         "type": "主張"
+    },
+
+
+
+
+
+    {
+        "phrase": "Do you think (SV)...?",
+        "meaning": "～だと思いますか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "What do you think about (sth)?",
+        "meaning": "～についてどう思いますか？",
+        "type": "質問"
     }
 ]
