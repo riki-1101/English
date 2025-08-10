@@ -1,0 +1,277 @@
+[   
+    {
+        "phrase": "I think (SV)",
+        "meaning": "～だと思う",
+        "type": "基本"
+    },
+    {
+        "phrase": "I thought (SV)",
+        "meaning": "～だと思っていた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I assume (SV)",
+        "meaning": "～だと思っている（決めつけ）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I suppose (SV)",
+        "meaning": "～だと思う（やや控えめ）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I feel (SV)",
+        "meaning": "～だと感じる",
+        "type": "基本"
+    },
+    {
+        "phrase": "I guess (SV)",
+        "meaning": "多分～かな",
+        "type": "基本"
+    },
+    {
+        "phrase": "I hope (SV)",
+        "meaning": "～だといいな",
+        "type": "基本"
+    },
+    {
+        "phrase": "I wish (SV) 仮定法",
+        "meaning": "～だったらいいのに（妄想）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I regret (SV)",
+        "meaning": "～ということを残念に思う",
+        "type": "基本"
+    },
+    {
+        "phrase": "I believe (SV)",
+        "meaning": "～だと信じる",
+        "type": "基本"
+    },
+    {
+        "phrase": "I can't believe (SV)",
+        "meaning": "～なんて信じられない",
+        "type": "基本"
+    },
+    {
+        "phrase": "I suggest (S do)",
+        "meaning": "～ということを提案する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I recommend (S do)",
+        "meaning": "～ということを勧める",
+        "type": "基本"
+    },
+    {
+        "phrase": "I insist (S do)",
+        "meaning": "～ということを主張する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m sure (SV)",
+        "meaning": "～だと確信している",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m certain (SV)",
+        "meaning": "～は確かである",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m afraid (SV)",
+        "meaning": "残念ながら～だと思う",
+        "type": "基本"
+    },
+    {
+        "phrase": "I know (SV)",
+        "meaning": "～ということを知っている",
+        "type": "基本"
+    },
+    {
+        "phrase": "I heard (SV)",
+        "meaning": "～ということを聞いた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I found (SV)",
+        "meaning": "～だとわかった",
+        "type": "基本"
+    },
+    {
+        "phrase": "I noticed (SV)",
+        "meaning": "～ということに気づいた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I realized (SV)",
+        "meaning": "～ということに気づいた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m aware (SV)",
+        "meaning": "～に気づいている",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m conscious (SV)",
+        "meaning": "～に気づいている",
+        "type": "基本"
+    },
+
+
+
+
+
+    {
+        "phrase": "I’m grad (SV)",
+        "meaning": "～で嬉しい",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m grad (SV)",
+        "meaning": "～で幸せだ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m delighted (SV)",
+        "meaning": "～で喜んでいる",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m pleased (SV)",
+        "meaning": "～で喜んでいる",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m proud (SV)",
+        "meaning": "～を誇りに思っている",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m thankful (SV)",
+        "meaning": "～に感謝している",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m grateful (SV)",
+        "meaning": "～に感謝している（少し改まった感謝）",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m relieved (SV)",
+        "meaning": "～でほっとしている",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m surprised (SV)",
+        "meaning": "～で驚いている",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m amazed (SV)",
+        "meaning": "～でとても驚いている",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m shocked (SV)",
+        "meaning": "～でとても驚いている",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m astonished (SV)",
+        "meaning": "～でとても驚いている",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m lucky (SV)",
+        "meaning": "～とは運がいい",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m fortunate (SV)",
+        "meaning": "～とは幸運です",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m sorry (SV)",
+        "meaning": "～とは残念だ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m sad (SV)",
+        "meaning": "～とは悲しい",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m worried (SV)",
+        "meaning": "～に心配している",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m concerned (SV)",
+        "meaning": "～に心配している",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m disappointed (SV)",
+        "meaning": "～とはがっかりだ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m upset (SV)",
+        "meaning": "～とは不快だ",
+        "type": "感情"
+    },
+
+
+
+
+
+    {
+        "phrase": "It’s said (SV)",
+        "meaning": "～だと言われている",
+        "type": "一般"
+    },
+    {
+        "phrase": "It’s clear (SV)",
+        "meaning": "～は明らかだ",
+        "type": "一般"
+    },
+    {
+        "phrase": "It’s true (SV)",
+        "meaning": "～は本当だ",
+        "type": "一般"
+    },
+    {
+        "phrase": "It’s likely (SV)",
+        "meaning": "～しそうだ",
+        "type": "一般"
+    },
+    {
+        "phrase": "It’s unlikely (SV)",
+        "meaning": "～しそうにない",
+        "type": "一般"
+    },
+    {
+        "phrase": "It seems (SV)",
+        "meaning": "～だと思われる",
+        "type": "一般"
+    },
+    {
+        "phrase": "It appears (SV)",
+        "meaning": "どうやら～らしい",
+        "type": "一般"
+    },
+
+
+
+
+
+    {
+        "phrase": "Do you think (SV)...?",
+        "meaning": "～だと思いますか？",
+        "type": "質問"
+    }
+]

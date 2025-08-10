@@ -21,17 +21,17 @@
             done：過去分詞（一般動詞の過去分詞、been+形容詞）<br>
             adj：形容詞型（形容詞、分詞）
         </p>
-        <select id="category" onchange="loadData()" aria-label="カテゴリ選択">
-            <option value="basic.json">基本表現</option>
-            <option value="to-do.json">動作に向かう（to do）</option>
-            <option value="emotion.json">何かに対する感情</option>
-            <option value="thinking.json">意見（I think + 文）</option>
-            <option value="recognition.json">認識（I know + 文）</option>
-        </select>
         <select id="filter" onchange="filterList()" aria-label="選択">
-            <option value="主張">主張</option>
-            <option value="一般論">一般論</option>
+            <option value="基本">基本</option>
+            <option value="感情">感情</option>
+            <option value="相手">相手</option>
+            <option value="一般">一般</option>
             <option value="質問">質問</option>
+        </select>
+        <select id="category" onchange="loadData()" aria-label="カテゴリ選択">
+            <option value="+do.json">+ do</option>
+            <option value="+sth.json">+ sth</option>
+            <option value="+sv.json">+ that SV</option>
         </select>
         <ul id="list"></ul>
         <div id="popup" class="modal">

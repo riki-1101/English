@@ -1,0 +1,417 @@
+[   
+    {
+        "phrase": "I (do)",
+        "meaning": "普段～する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I will (do)",
+        "meaning": "～する意志がある",
+        "type": "基本"
+    },
+    {
+        "phrase": "I'll just go (do)",
+        "meaning": "ちょっと～しに行く",
+        "type": "基本"
+    },
+    {
+        "phrase": "I would often (do)",
+        "meaning": "～したものだ",
+        "type": "基本"
+    },
+    {
+        "phrase": "I'd rather (do)",
+        "meaning": "むしろ～したい",
+        "type": "基本"
+    },
+    {
+        "phrase": "I can (do)",
+        "meaning": "～できる可能性がある",
+        "type": "基本"
+    },
+    {
+        "phrase": "I should (do)",
+        "meaning": "～した方がいい",
+        "type": "基本"
+    },
+    {
+        "phrase": "I have to (do)",
+        "meaning": "～しなければならない",
+        "type": "基本"
+    },
+    {
+        "phrase": "I had to (do)",
+        "meaning": "～しなければならなかった",
+        "type": "基本"
+    },
+    {
+        "phrase": "I've got to (do)",
+        "meaning": "～しなきゃ",
+        "type": "基本"
+    },
+    {
+        "phrase": "I need to (do)",
+        "meaning": "～する必要がある",
+        "type": "基本"
+    },
+    {
+        "phrase": "I want to (do)",
+        "meaning": "～したい",
+        "type": "基本"
+    },
+    {
+        "phrase": "I'd like to (do)",
+        "meaning": "～したい（丁寧）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I can't wait to (do)",
+        "meaning": "早く～したいよ（待てない）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I hope to (do)",
+        "meaning": "～できたらいいな（控えめ）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I wish to (do)",
+        "meaning": "～したいです（とても丁寧）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I expect to (do)",
+        "meaning": "～するつもり",
+        "type": "基本"
+    },
+    {
+        "phrase": "I promise to (do)",
+        "meaning": "～するのを約束する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I agree to (do)",
+        "meaning": "～するのに同意する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I try to (do)",
+        "meaning": "～しようと努力する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I struggle to (do)",
+        "meaning": "～するのに苦戦する",
+        "type": "基本"
+    },
+    {
+        "phrase": "I offer to (do)",
+        "meaning": "～するのを申し出る",
+        "type": "基本"
+    },
+    {
+        "phrase": "I attempted to (do)",
+        "meaning": "～しようと試みた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I learned to (do)",
+        "meaning": "～できるようになった",
+        "type": "基本"
+    },
+    {
+        "phrase": "I decided to (do)",
+        "meaning": "～することを決めた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I forgot to (do)",
+        "meaning": "～することを忘れた",
+        "type": "基本"
+    },
+    {
+        "phrase": "I failed to (do)",
+        "meaning": "～しそこなった",
+        "type": "基本"
+    },
+    {
+        "phrase": "I refused to (do)",
+        "meaning": "～するのを拒んだ",
+        "type": "基本"
+    },
+    {
+        "phrase": "I used to (do)",
+        "meaning": "昔は～していた（今は違う）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m going to (do)",
+        "meaning": "未来全般",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m about to (do)",
+        "meaning": "まさに～しようとしている",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m planning to (do)",
+        "meaning": "～するのを予定している",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m supposed to (do)",
+        "meaning": "～することになっている（義務・期待）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m determined to (do)",
+        "meaning": "～するのを決心している",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m trying to (do)",
+        "meaning": "～しようと頑張っている",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m willing to (do)",
+        "meaning": "～しても構わない",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m unwilling to (do)",
+        "meaning": "～するのに気乗りしない",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m hoping to (do)",
+        "meaning": "～できたらいいなと思う（控えめ）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m excited to (do)",
+        "meaning": "～するのが楽しみ",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m eager to (do)",
+        "meaning": "～したくてたまらない（わくわく）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m anxious to (do)",
+        "meaning": "～したくてたまらない（そわそわ）",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m dying to (do)",
+        "meaning": "死ぬほど～したい！",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m ready to (do)",
+        "meaning": "～する準備ができている",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m able to (do)",
+        "meaning": "～することができる",
+        "type": "基本"
+    },
+    {
+        "phrase": "I’m unable to (do)",
+        "meaning": "～することができない",
+        "type": "基本"
+    },
+
+
+
+
+    
+    {
+        "phrase": "I’m grad to (do)",
+        "meaning": "～して嬉しい",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m happy to (do)",
+        "meaning": "～して幸せだ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m delighted to (do)",
+        "meaning": "～して喜ぶ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m pleased to (do)",
+        "meaning": "～して喜ぶ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m surprised to (do)",
+        "meaning": "～して驚いた",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m lucky to (do)",
+        "meaning": "～するとは運がいい",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m proud to (do)",
+        "meaning": "～するのを誇りに思う",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m thankful to (do)",
+        "meaning": "～して感謝している",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m sorry to (do)",
+        "meaning": "～して残念だ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m sad to (do)",
+        "meaning": "～して悲しい",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m disappointed to (do)",
+        "meaning": "～してがっかりだ",
+        "type": "感情"
+    },
+    {
+        "phrase": "I’m upset to (do)",
+        "meaning": "～してうろたえた",
+        "type": "感情"
+    },
+
+
+
+
+
+    {
+        "phrase": "You can (do)",
+        "meaning": "～できるよ",
+        "type": "相手"
+    },
+    {
+        "phrase": "You may (do)",
+        "meaning": "～してもいいですよ",
+        "type": "相手"
+    },
+    {
+        "phrase": "You should (do)",
+        "meaning": "～した方がいいよ",
+        "type": "相手"
+    },
+    {
+        "phrase": "You must (do)",
+        "meaning": "～しなければならない",
+        "type": "相手"
+    },
+    {
+        "phrase": "You'd better (do)",
+        "meaning": "～しなさいよ",
+        "type": "相手"
+    },
+    {
+        "phrase": "Please (do)",
+        "meaning": "～してください",
+        "type": "相手"
+    },
+    {
+        "phrase": "Don't (do)",
+        "meaning": "～しないで",
+        "type": "相手"
+    },
+    {
+        "phrase": "Never (do)",
+        "meaning": "決して～しないで",
+        "type": "相手"
+    },
+    {
+        "phrase": "Let's (do)",
+        "meaning": "～しましょうよ（提案）",
+        "type": "相手"
+    },
+
+
+
+
+
+    {
+        "phrase": "It takes (time) to (do)",
+        "meaning": "～するのに(時間)がかかる",
+        "type": "一般"
+    },
+
+
+
+
+
+    {
+        "phrase": "Do you (do)...?",
+        "meaning": "普段～する？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Don't you (do)...?",
+        "meaning": "普段～する？（答えはNoと思って聞く）",
+        "type": "質問"
+    },
+    {
+        "phrase": "Did you (do)...?",
+        "meaning": "～した？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Didn't you (do)...?",
+        "meaning": "～した？（答えはNoと思って聞く）",
+        "type": "質問"
+    },
+    {
+        "phrase": "Do you want to (do)...?",
+        "meaning": "～したい？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Do you want me to (do)...?",
+        "meaning": "～しようか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Would you like me to (do)...?",
+        "meaning": "～しましょうか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Do I have to (do)...?",
+        "meaning": "～しないといけない？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Will you (do)...?",
+        "meaning": "～してくれる？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Would you (do)...?",
+        "meaning": "～していただけますか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Do you mind if I (do)...?",
+        "meaning": "～しても構いませんか？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Why don't you (do)...?",
+        "meaning": "～したらどう？",
+        "type": "質問"
+    }
+]
