@@ -20,6 +20,11 @@
         "type": "基本"
     },
     {
+        "phrase": "I couldn't have (done)",
+        "meaning": "～できなかっただろうな（できた）",
+        "type": "基本"
+    },
+    {
         "phrase": "I would've (done)",
         "meaning": "～する意志があったのに（していない）",
         "type": "基本"

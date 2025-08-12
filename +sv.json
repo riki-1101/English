@@ -119,6 +119,16 @@
         "meaning": "～に気づいている",
         "type": "基本"
     },
+    {
+        "phrase": "It seems (SV)",
+        "meaning": "～だと思われる",
+        "type": "基本"
+    },
+    {
+        "phrase": "It appears (SV)",
+        "meaning": "どうやら～らしい",
+        "type": "基本"
+    },
 
 
 
@@ -232,37 +242,47 @@
     {
         "phrase": "It’s said (SV)",
         "meaning": "～だと言われている",
-        "type": "一般"
+        "type": "評価"
     },
     {
         "phrase": "It’s clear (SV)",
         "meaning": "～は明らかだ",
-        "type": "一般"
+        "type": "評価"
+    },
+    {
+        "phrase": "It’s obvious (SV)",
+        "meaning": "～は明らかだ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It’s natural (SV)",
+        "meaning": "～は当然だ",
+        "type": "評価"
     },
     {
         "phrase": "It’s true (SV)",
         "meaning": "～は本当だ",
-        "type": "一般"
+        "type": "評価"
     },
     {
         "phrase": "It’s likely (SV)",
         "meaning": "～しそうだ",
-        "type": "一般"
+        "type": "評価"
     },
     {
         "phrase": "It’s unlikely (SV)",
         "meaning": "～しそうにない",
-        "type": "一般"
+        "type": "評価"
     },
     {
-        "phrase": "It seems (SV)",
-        "meaning": "～だと思われる",
-        "type": "一般"
+        "phrase": "It’s strange (SV)",
+        "meaning": "～は奇妙だ",
+        "type": "評価"
     },
     {
-        "phrase": "It appears (SV)",
-        "meaning": "どうやら～らしい",
-        "type": "一般"
+        "phrase": "It’s possible (SV)",
+        "meaning": "～の可能性がある",
+        "type": "評価"
     },
 
 

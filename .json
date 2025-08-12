@@ -1,0 +1,157 @@
+[
+    {
+        "phrase": "in a good mood",
+        "meaning": "機嫌がいい状態",
+        "category": "in"
+    },
+    {
+        "phrase": "in a hurry",
+        "meaning": "急いでいる状態",
+        "category": "in"
+    },
+    {
+        "phrase": "in charge of (sth)",
+        "meaning": "～の担当者である状態",
+        "category": "in"
+    },
+    {
+        "phrase": "in danger",
+        "meaning": "危険な状態",
+        "category": "in"
+    },
+    {
+        "phrase": "in pain",
+        "meaning": "痛みを感じている状態",
+        "category": "in"
+    },
+    {
+        "phrase": "in shape",
+        "meaning": "体が鍛えられた状態",
+        "category": "in"
+    },
+    {
+        "phrase": "in trouble",
+        "meaning": "困っている状態",
+        "category": "in"
+    },
+
+
+
+
+
+    {
+        "phrase": "out of breath",
+        "meaning": "息切れしている状態",
+        "category": "out"
+    },
+    {
+        "phrase": "out of control",
+        "meaning": "制御不能な状態",
+        "category": "out"
+    },
+    {
+        "phrase": "out of order",
+        "meaning": "故障している状態",
+        "category": "out"
+    },
+    {
+        "phrase": "out of shape",
+        "meaning": "運動不足の状態",
+        "category": "out"
+    },
+    {
+        "phrase": "out of stock",
+        "meaning": "在庫切れである状態",
+        "category": "out"
+    },
+    {
+        "phrase": "out of work",
+        "meaning": "失業中の状態",
+        "category": "out"
+    },
+
+
+
+
+
+    {
+        "phrase": "under attack",
+        "meaning": "攻撃を受けている状態",
+        "category": "under"
+    },
+    {
+        "phrase": "under construction",
+        "meaning": "工事中である状態",
+        "category": "under"
+    },
+    {
+        "phrase": "under control",
+        "meaning": "管理されている状態",
+        "category": "under"
+    },
+    {
+        "phrase": "under pressure",
+        "meaning": "プレッシャーを受けている状態",
+        "category": "under"
+    },
+    {
+        "phrase": "under stress",
+        "meaning": "ストレスの下にいる状態",
+        "category": "under"
+    },
+    {
+        "phrase": "under the weather",
+        "meaning": "体調が良くない状態",
+        "category": "under"
+    },
+
+
+
+
+
+    {
+        "phrase": "at home",
+        "meaning": "家にいる状態",
+        "category": "at"
+    },
+    {
+        "phrase": "at peace",
+        "meaning": "平和な状態",
+        "category": "at"
+    },
+    {
+        "phrase": "at risk of (sth)",
+        "meaning": "～の危険がある状態",
+        "category": "at"
+    },
+    {
+        "phrase": "at work",
+        "meaning": "仕事中である状態",
+        "category": "at"
+    },
+
+
+
+
+
+    {
+        "phrase": "on duty",
+        "meaning": "勤務中である状態",
+        "category": "on"
+    },
+    {
+        "phrase": "on edge",
+        "meaning": "神経質である状態",
+        "category": "on"
+    },
+    {
+        "phrase": "on fire",
+        "meaning": "絶好調である状態",
+        "category": "on"
+    },
+    {
+        "phrase": "on vacation",
+        "meaning": "休暇中である状態",
+        "category": "on"
+    }
+]

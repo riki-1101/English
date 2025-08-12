@@ -295,6 +295,101 @@
 
 
     {
+        "phrase": "It's difficult to (do)",
+        "meaning": "～するのは難しい",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's hard to (do)",
+        "meaning": "～するのは難しい",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's easy to (do)",
+        "meaning": "～するのは簡単だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's impossible to (do)",
+        "meaning": "～するのは不可能だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's tough to (do)",
+        "meaning": "～するのは困難だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's safe to (do)",
+        "meaning": "～するのは安全だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's dangerous to (do)",
+        "meaning": "～するのは危険だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's comfortable to (do)",
+        "meaning": "～するのは快適だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's uncomfortable to (do)",
+        "meaning": "～するのは不快だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's convenient to (do)",
+        "meaning": "～するのは便利だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's fun to (do)",
+        "meaning": "～するのは楽しい",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's pleasant to (do)",
+        "meaning": "～するのは楽しい",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's unpleasant to (do)",
+        "meaning": "～するのは不愉快だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's boring to (do)",
+        "meaning": "～するのは退屈だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's exciting to (do)",
+        "meaning": "～するのはわくわくする",
+        "type": "評価"
+    },
+    {
+        "phrase": "It’s useless to (do)",
+        "meaning": "～しても無駄だ",
+        "type": "評価"
+    },
+    {
+        "phrase": "It’s worth it to (do)",
+        "meaning": "～する価値がある",
+        "type": "評価"
+    },
+    {
+        "phrase": "It takes (time) to (do)",
+        "meaning": "～するのに(時間)がかかる",
+        "type": "評価"
+    },
+
+
+
+
+
+    {
         "phrase": "You can (do)",
         "meaning": "～できるよ",
         "type": "相手"
@@ -320,6 +415,11 @@
         "type": "相手"
     },
     {
+        "phrase": "You only have to (do)",
+        "meaning": "～しさえすればよい",
+        "type": "相手"
+    },
+    {
         "phrase": "Please (do)",
         "meaning": "～してください",
         "type": "相手"
@@ -338,16 +438,6 @@
         "phrase": "Let's (do)",
         "meaning": "～しましょうよ（提案）",
         "type": "相手"
-    },
-
-
-
-
-
-    {
-        "phrase": "It takes (time) to (do)",
-        "meaning": "～するのに(時間)がかかる",
-        "type": "一般"
     },
 
 

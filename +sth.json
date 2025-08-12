@@ -112,21 +112,26 @@
     {
         "phrase": "It's covered with (sth)",
         "meaning": "～に覆われている",
-        "type": "一般"
+        "type": "評価"
     },
     {
         "phrase": "It's filled with (sth)",
         "meaning": "～でいっぱいである",
-        "type": "一般"
+        "type": "評価"
     },
     {
         "phrase": "It's crowded with (sth)",
         "meaning": "～で混んでいる",
-        "type": "一般"
+        "type": "評価"
     },
     {
         "phrase": "It's aimed at (sth)",
         "meaning": "～向けである",
-        "type": "一般"
-    }
+        "type": "評価"
+    },
+    {
+        "phrase": "It’s no use (doing)",
+        "meaning": "～しても無駄だ",
+        "type": "評価"
+    }    
 ]
