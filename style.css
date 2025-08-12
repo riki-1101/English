@@ -36,8 +36,8 @@ select {
 #list li {
     padding: 1em;
     font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "serif";
-    font-size: 1.8em;
-    border-bottom: 1px solid black;
+    font-size: 1.7em;
+    border-bottom: 1px solid gray;
 }
 
 
@@ -69,15 +69,14 @@ select {
 
 .modal-content {
   background-color: white;
-  padding: 20px;
+  padding: 10px;
   border-radius: 10px;
-  width: 80%;
-  max-width: 400px;
+  width: 85%;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
 
 #phrase {
     font-family: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", "serif";
-    font-size: 1.8em;
+    font-size: 1.7em;
 }
