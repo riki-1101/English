@@ -1,0 +1,225 @@
+[
+    {
+        "phrase-present": "I have to (do)",
+        "meaning-present": "～しなければならない",
+        "phrase-past": "I had to (do)",
+        "meaning-past": "～しなければならなかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I've got to (do)",
+        "meaning-present": "～しなきゃ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I need to (do)",
+        "meaning-present": "～する必要がある",
+        "phrase-past": "I needed to (do)",
+        "meaning-past": "～する必要があった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I want to (do)",
+        "meaning-present": "～したい",
+        "phrase-past": "I wanted to (do)",
+        "meaning-past": "～したかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I'd like to (do)",
+        "meaning-present": "～したいのですが",
+        "phrase-past": "I would've liked to (do)",
+        "meaning-past": "～したかったんだけどね（してない）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I can't wait to (do)",
+        "meaning-present": "～するのが待ちきれない",
+        "phrase-past": "I couldn't wait to (do)",
+        "meaning-past": "～するのが待ちきれなかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I hope to (do)",
+        "meaning-present": "～できたらいいな（控えめ）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I wish to (do)",
+        "meaning-present": "～したいです（とても丁寧）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I expect to (do)",
+        "meaning-present": "～するつもりだ",
+        "phrase-past": "I expected to (do)",
+        "meaning-past": "～するつもりだった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I promise to (do)",
+        "meaning-present": "～するのを約束する",
+        "phrase-past": "I promised to (do)",
+        "meaning-past": "～するのを約束した",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I agree to (do)",
+        "meaning-present": "～するのに同意する",
+        "phrase-past": "I agreed to (do)",
+        "meaning-past": "～するのに同意した",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I try to (do)",
+        "meaning-present": "～しようと努力する",
+        "phrase-past": "I tried to (do)",
+        "meaning-past": "～しようと努力した",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I struggle to (do)",
+        "meaning-present": "～するのに苦戦する",
+        "phrase-past": "I struggled to (do)",
+        "meaning-past": "～するのに苦戦した",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I offer to (do)",
+        "meaning-present": "～するのを申し出る",
+        "phrase-past": "I offered to (do)",
+        "meaning-past": "～するのを申し出た",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I attempt to (do)",
+        "meaning-present": "～しようと試みる",
+        "phrase-past": "I attempted to (do)",
+        "meaning-past": "～しようと試みた",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I learn to (do)",
+        "meaning-present": "～できるようになる",
+        "phrase-past": "I learned to (do)",
+        "meaning-past": "～できるようになった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I decide to (do)",
+        "meaning-present": "～することを決める",
+        "phrase-past": "I decided to (do)",
+        "meaning-past": "～することを決めた",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I hurried to (do)",
+        "meaning-present": "～するのに急いだ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I forgot to (do)",
+        "meaning-present": "～することを忘れた",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I failed to (do)",
+        "meaning-present": "～しそこなった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I refused to (do)",
+        "meaning-present": "～するのを拒んだ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I used to (do)",
+        "meaning-present": "昔は～していた（今は違う）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m going to (do)",
+        "meaning-present": "未来全般",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m about to (do)",
+        "meaning-present": "まさに～しようとしている",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m planning to (do)",
+        "meaning-present": "～するのを予定している",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m supposed to (do)",
+        "meaning-present": "～することになっている（義務・期待）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m determined to (do)",
+        "meaning-present": "～するのを決心している",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m trying to (do)",
+        "meaning-present": "～しようと頑張っている",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m aiming to (do)",
+        "meaning-present": "～するのを目指している",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m willing to (do)",
+        "meaning-present": "～しても構わない",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m unwilling to (do)",
+        "meaning-present": "～するのに気乗りしない",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m hoping to (do)",
+        "meaning-present": "～できたらいいなと思う（控えめ）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m excited to (do)",
+        "meaning-present": "～するのが楽しみ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m eager to (do)",
+        "meaning-present": "～したくてたまらない（わくわく）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m anxious to (do)",
+        "meaning-present": "～したくてたまらない（そわそわ）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m dying to (do)",
+        "meaning-present": "死ぬほど～したい！",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m ready to (do)",
+        "meaning-present": "～する準備ができている",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m able to (do)",
+        "meaning-present": "～することができる",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m unable to (do)",
+        "meaning-present": "～することができない",
+        "type": "do"
+    }
+]
