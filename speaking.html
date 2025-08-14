@@ -11,7 +11,7 @@
         <h1>Speaking</h1>
         <ul id="list"></ul>
         <script>
-            fetch('/json/initial.json')
+            fetch('./json/initial.json')
             .then(response => response.json())
             .then(data => {
                 const list = document.getElementById('list');
