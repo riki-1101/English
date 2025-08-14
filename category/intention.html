@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>意向</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <main id="main" class="intention">
+        <h1>意向</h1>
+        <select id="filter1" onchange="filterList()">
+            <option value="do">行為</option>
+        </select>
+        <label for="filter1">に対する意向</label>
+        <select id="filter2" onchange="filterList()" aria-label="時制">
+            <option value="present">現在</option>
+            <option value="past">過去</option>
+        </select>
+        <ul id="list"></ul>
+        <div id="popup" class="modal">
+            <div class="modal-content">
+                <p id="phrase"></p>
+                <p id="meaning"></p>
+            </div>
+        </div>
+        <script src="/load.js"></script>
+    </main>
+</body>
+</html>

@@ -25,6 +25,18 @@ p {
     line-height: 2;
 }
 
+
+#category {
+    list-style: none;
+    padding: 0;
+}
+#category li {
+    padding: 1em;
+    font-size: 2em;
+}
+
+
+
 select {
     padding: 2px 5px;
 }

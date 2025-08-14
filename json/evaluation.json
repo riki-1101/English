@@ -1,0 +1,168 @@
+[
+    {
+        "phrase-present": "It's difficult to (do)",
+        "meaning-present": "～するのは難しい",
+        "phrase-past": "It was difficult to (do)",
+        "meaning-past": "～するのは難しかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's hard to (do)",
+        "meaning-present": "～するのは難しい",
+        "phrase-past": "It was hard to (do)",
+        "meaning-past": "～するのは難しかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's easy to (do)",
+        "meaning-present": "～するのは簡単である",
+        "phrase-past": "It was easy to (do)",
+        "meaning-past": "～するのは簡単だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's impossible to (do)",
+        "meaning-present": "～するのは不可能である",
+        "phrase-past": "It was impossible to (do)",
+        "meaning-past": "～するのは不可能だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's tough to (do)",
+        "meaning-present": "～するのは困難である",
+        "phrase-past": "It was tough to (do)",
+        "meaning-past": "～するのは困難だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's safe to (do)",
+        "meaning-present": "～するのは安全である",
+        "phrase-past": "It was safe to (do)",
+        "meaning-past": "～するのは安全だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's dangerous to (do)",
+        "meaning-present": "～するのは危険である",
+        "phrase-past": "It was dangerous to (do)",
+        "meaning-past": "～するのは危険だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's comfortable to (do)",
+        "meaning-present": "～するのは快適である",
+        "phrase-past": "It was comfortable to (do)",
+        "meaning-past": "～するのは快適だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's uncomfortable to (do)",
+        "meaning-present": "～するのは不快である",
+        "phrase-past": "It was uncomfortable to (do)",
+        "meaning-past": "～するのは不快だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's convenient to (do)",
+        "meaning-present": "～するのは便利である",
+        "phrase-past": "It was convenient to (do)",
+        "meaning-past": "～するのは便利だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's fun to (do)",
+        "meaning-present": "～するのは楽しい",
+        "phrase-past": "It was fun to (do)",
+        "meaning-past": "～するのは楽しかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's pleasant to (do)",
+        "meaning-present": "～するのは楽しい",
+        "phrase-past": "It was pleasant to (do)",
+        "meaning-past": "～するのは楽しかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's unpleasant to (do)",
+        "meaning-present": "～するのは不愉快である",
+        "phrase-past": "It was unpleasant to (do)",
+        "meaning-past": "～するのは不愉快だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's boring to (do)",
+        "meaning-present": "～するのは退屈である",
+        "phrase-past": "It was boring to (do)",
+        "meaning-past": "～するのは退屈だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It's exciting to (do)",
+        "meaning-present": "～するのはわくわくする",
+        "phrase-past": "It was exciting to (do)",
+        "meaning-past": "～するのはわくわくした",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It’s useless to (do)",
+        "meaning-present": "～しても無駄である",
+        "phrase-past": "It was useless to (do)",
+        "meaning-past": "～しても無駄だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It’s worth it to (do)",
+        "meaning-present": "～する価値がある",
+        "phrase-past": "It was worth it to (do)",
+        "meaning-past": "～する価値があった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "It takes (time) to (do)",
+        "meaning-present": "～するのに(時間)がかかる",
+        "phrase-past": "It took (time) to (do)",
+        "meaning-past": "～するのに(時間)がかかった",
+        "type": "do"
+    },
+
+
+
+
+
+    {
+        "phrase-present": "It's covered with (sth)",
+        "meaning-present": "～に覆われている",
+        "phrase-past": "It was covered with (sth)",
+        "meaning-past": "～に覆われていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "It's filled with (sth)",
+        "meaning-present": "～でいっぱいである",
+        "phrase-past": "It was filled with (sth)",
+        "meaning-past": "～でいっぱいだった",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "It's crowded with (sth)",
+        "meaning-present": "～で混んでいる",
+        "phrase-past": "It was crowded with (sth)",
+        "meaning-past": "～で混んでいた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "It's aimed at (sth)",
+        "meaning-present": "～向けである",
+        "phrase-past": "It was aimed at (sth)",
+        "meaning-past": "～向けだった",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "It’s no use (doing)",
+        "meaning-present": "～しても無駄である",
+        "phrase-past": "It was no use (doing)",
+        "meaning-past": "～しても無駄だった",
+        "type": "sth"
+    }
+]

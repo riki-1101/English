@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>基本</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <main id="main" class="basic">
+        <h1>基本</h1>
+        <select id="filter1" onchange="filterList()" aria-label="対象">
+            <option value="do">行為</option>
+            <option value="sth">何か</option>
+        </select>
+        <select id="filter2" onchange="filterList()" aria-label="時制">
+            <option value="present">現在</option>
+        </select>
+        <ul id="list"></ul>
+        <div id="popup" class="modal">
+            <div class="modal-content">
+                <p id="phrase"></p>
+                <p id="meaning"></p>
+            </div>
+        </div>
+        <script src="/load.js"></script>
+    </main>
+</body>
+</html>

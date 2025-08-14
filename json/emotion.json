@@ -1,0 +1,238 @@
+[
+    {
+        "phrase-present": "I’m glad to (do)",
+        "meaning-present": "～して嬉しい",
+        "phrase-past": "I was glad to (do)",
+        "meaning-past": "～して嬉しかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m happy to (do)",
+        "meaning-present": "～して幸せだ",
+        "phrase-past": "I was happy to (do)",
+        "meaning-past": "～して幸せだった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m delighted to (do)",
+        "meaning-present": "～して喜ぶ",
+        "phrase-past": "I was delighted to (do)",
+        "meaning-past": "～して喜んだ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m pleased to (do)",
+        "meaning-present": "～して喜ぶ",
+        "phrase-past": "I was pleased to (do)",
+        "meaning-past": "～して喜んだ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m surprised to (do)",
+        "meaning-present": "～して驚いた",
+        "phrase-past": "I was surprised to (do)",
+        "meaning-past": "～して驚いた",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m lucky to (do)",
+        "meaning-present": "～するとは運がいい",
+        "phrase-past": "I was lucky to (do)",
+        "meaning-past": "～するとは運がよかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m proud to (do)",
+        "meaning-present": "～するのを誇りに思う",
+        "phrase-past": "I was proud to (do)",
+        "meaning-past": "～するのを誇りに思った",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m thankful to (do)",
+        "meaning-present": "～して感謝している",
+        "phrase-past": "I was thankful to (do)",
+        "meaning-past": "～して感謝していた",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m sorry to (do)",
+        "meaning-present": "～して残念だ",
+        "phrase-past": "I was sorry to (do)",
+        "meaning-past": "～して残念だった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m sad to (do)",
+        "meaning-present": "～して悲しい",
+        "phrase-past": "I was sad to (do)",
+        "meaning-past": "～して悲しかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m disappointed to (do)",
+        "meaning-present": "～してがっかりだ",
+        "phrase-past": "I was disappointed to (do)",
+        "meaning-past": "～してがっかりした",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I’m upset to (do)",
+        "meaning-present": "～してうろたえた",
+        "phrase-past": "I was upset to (do)",
+        "meaning-past": "～してうろたえた（過去）",
+        "type": "do"
+    },
+
+
+
+
+
+    {
+        "phrase-present": "I’m interested in (sth)",
+        "meaning-present": "～に興味がある",
+        "phrase-past": "I was interested in (sth)",
+        "meaning-past": "～に興味があった",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m fond of (sth)",
+        "meaning-present": "～が好きである",
+        "phrase-past": "I was fond of (sth)",
+        "meaning-past": "～が好きだった",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m tired of (sth)",
+        "meaning-present": "～にうんざりしている",
+        "phrase-past": "I was tired of (sth)",
+        "meaning-past": "～にうんざりしていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m frightened of (sth)",
+        "meaning-present": "～に怖がっている",
+        "phrase-past": "I was frightened of (sth)",
+        "meaning-past": "～に怖がっていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m fed up with (sth)",
+        "meaning-present": "～にうんざりしている（かため）",
+        "phrase-past": "I was fed up with (sth)",
+        "meaning-past": "～にうんざりしていた（かため）",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m worried about (sth)",
+        "meaning-present": "～を心配している",
+        "phrase-past": "I was worried about (sth)",
+        "meaning-past": "～を心配していた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m pleased with (sth)",
+        "meaning-present": "～に喜んでいる",
+        "phrase-past": "I was pleased with (sth)",
+        "meaning-past": "～に喜んでいた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m satisfied with (sth)",
+        "meaning-present": "～に満足している",
+        "phrase-past": "I was satisfied with (sth)",
+        "meaning-past": "～に満足していた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m delighted with (sth)",
+        "meaning-present": "～に大喜びである",
+        "phrase-past": "I was delighted with (sth)",
+        "meaning-past": "～に大喜びだった",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m surprised at (sth)",
+        "meaning-present": "～に驚いている",
+        "phrase-past": "I was surprised at (sth)",
+        "meaning-past": "～に驚いていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m amazed at (sth)",
+        "meaning-present": "～にひどく驚いている",
+        "phrase-past": "I was amazed at (sth)",
+        "meaning-past": "～にひどく驚いていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m disappointed at (sth)",
+        "meaning-present": "～にがっかりしている",
+        "phrase-past": "I was disappointed at (sth)",
+        "meaning-past": "～にがっかりしていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m shocked at (sth)",
+        "meaning-present": "～にショックを受けている",
+        "phrase-past": "I was shocked at (sth)",
+        "meaning-past": "～にショックを受けていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m excited at (sth)",
+        "meaning-present": "～に興奮している",
+        "phrase-past": "I was excited at (sth)",
+        "meaning-past": "～に興奮していた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m good at (sth)",
+        "meaning-present": "～が得意である",
+        "phrase-past": "I was good at (sth)",
+        "meaning-past": "～が得意だった",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m looking forward to (sth)",
+        "meaning-present": "～を楽しみにしている（丁寧）",
+        "phrase-past": "I was looking forward to (sth)",
+        "meaning-past": "～を楽しみにしていた（丁寧）",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m used to (sth)",
+        "meaning-present": "～に慣れている",
+        "phrase-past": "I was used to (sth)",
+        "meaning-past": "～に慣れていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m accustomed to (sth)",
+        "meaning-present": "～に慣れている",
+        "phrase-past": "I was accustomed to (sth)",
+        "meaning-past": "～に慣れていた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m opposed to (sth)",
+        "meaning-present": "～に反対している",
+        "phrase-past": "I was opposed to (sth)",
+        "meaning-past": "～に反対していた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I’m committed to (sth)",
+        "meaning-present": "～に熱心に取り組んでいる",
+        "phrase-past": "I was committed to (sth)",
+        "meaning-past": "～に熱心に取り組んでいた",
+        "type": "sth"
+    },
+    {
+        "phrase-present": "I feel like (sth)",
+        "meaning-present": "～な気分である",
+        "phrase-past": "I felt like (sth)",
+        "meaning-past": "～な気分だった",
+        "type": "sth"
+    }
+]

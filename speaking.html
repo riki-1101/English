@@ -9,96 +9,32 @@
 <body>
     <main>
         <h1>Speaking</h1>
-        <p>
-            動詞の原形：確定している動作<br>
-            to do：確定している動作に向かう<br>
-            that SV：論理的
-        </p>
-        <p>
-            do：動詞原形（一般動詞の原形、be+形容詞）<br>
-            done：過去分詞（一般動詞の過去分詞、been+形容詞）<br>
-            adj：形容詞型（形容詞、分詞）
-        </p>
-        <select id="filter" onchange="filterList()" aria-label="選択">
-            <option value="基本">基本</option>
-            <option value="感情">感情</option>
-            <option value="評価">評価</option>
-            <option value="相手">相手</option>
-            <option value="質問">質問</option>
-        </select>
-        <select id="category" onchange="loadData()" aria-label="カテゴリ選択">
-            <option value="+do.json">+ do</option>
-            <option value="+done.json">+ done</option>
-            <option value="+sth.json">+ sth</option>
-            <option value="+adj.json">+ adj</option>
-            <option value="+sv.json">+ that SV</option>
-        </select>
         <ul id="list"></ul>
-        <div id="popup" class="modal">
-            <div class="modal-content">
-                <p id="phrase"></p>
-                <p id="meaning"></p>
-            </div>
-        </div>
         <script>
-            let data = [];
-            document.addEventListener("DOMContentLoaded", function () {
-                loadData();
-            });
-
-            // JSONを読み込む
-            function loadData() {
-                const category = document.getElementById("category").value;
-                const filename = `${category}`;
-
-                fetch(filename)
-                    .then(response => response.json())
-                    .then(json => {
-                        data = json;
-                        filterList();
-                    })
-                    .catch(error => console.error("JSON の読み込みエラー:", error));
-            }
-
-            // フィルタ
-            function filterList() {
-                const selectedCategory = document.getElementById("filter").value;
-                const listElement = document.getElementById("list");
-                listElement.innerHTML = "";
-                const filteredData = data.filter(item => item.type === selectedCategory);
-
-                filteredData.forEach(item => {
-                    const li = document.createElement("li");
+            fetch('/json/initial.json')
+            .then(response => response.json())
+            .then(data => {
+                const list = document.getElementById('list');
+                data.forEach(item => {
+                    const li = document.createElement('li');
                     li.textContent = item.phrase;
-                    li.className = "list-item";
-
-                    // モーダル表示処理
-                    li.onclick = function () {
-                        document.getElementById("phrase").textContent = item.phrase;
-                        document.getElementById("meaning").textContent = item.meaning;
-                        document.getElementById("popup").style.display = "flex";
-                    };
-                    listElement.appendChild(li);
+                    li.classList.add(item.tense);
+                    // クリックした要素のデータをlocalStorageに保存
+                    li.addEventListener('click', () => {
+                        const selectedData = {
+                            phrase: item.phrase,
+                            meaning: item.meaning,
+                            tense: item.tense
+                        };
+                        localStorage.setItem("selectedData", JSON.stringify(selectedData));
+                        // category.htmlに遷移
+                        window.location.href = 'category.html';
+                    });
+                    list.appendChild(li);
                 });
-            }
-
-            // リストを表示
-            function renderList(filteredData) {
-                const list = document.getElementById("list");
-                list.innerHTML = "";
-                filteredData.forEach(item => {
-                const li = document.createElement("li");
-                li.textContent = item.phrase;
-                list.appendChild(li);
-                });
-            }
-
-            // 背景クリックで閉じる
-            document.getElementById("popup").addEventListener("click", function (event) {
-            // popup-contentの外側がクリックされた場合のみ閉じる
-            if (event.target === this) {
-                this.style.display = "none";
-            }
+            })
+            .catch(error => {
+                console.error('JSON読み込みエラー:', error);
             });
         </script>
     </main>

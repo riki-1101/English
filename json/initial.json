@@ -1,0 +1,309 @@
+[
+    {
+        "phrase": "",
+        "meaning": ""
+    },
+    {
+        "phrase": "I think",
+        "meaning": "と思う"
+    },
+    {
+        "phrase": "I thought",
+        "meaning": "と思った"
+    },
+    {
+        "phrase": "I assume",
+        "meaning": "と勝手に思っている"
+    },
+    {
+        "phrase": "I assumed",
+        "meaning": "と勝手に思っていた"
+    },
+    {
+        "phrase": "I suppose",
+        "meaning": "と思う（推測）"
+    },
+    {
+        "phrase": "I supposed",
+        "meaning": "と思った（推測）"
+    },
+    {
+        "phrase": "I guess",
+        "meaning": "と思う（多分）"
+    },
+    {
+        "phrase": "I hope",
+        "meaning": "といいな"
+    },
+    {
+        "phrase": "I regret",
+        "meaning": "ということを残念に思う"
+    },
+    {
+        "phrase": "I believe",
+        "meaning": "と信じる"
+    },
+    {
+        "phrase": "I can't believe",
+        "meaning": "なんて信じられない"
+    },
+    
+    {
+        "phrase": "I’m sure",
+        "meaning": "と確信している"
+    },
+    {
+        "phrase": "I’m certain",
+        "meaning": "のは確かである"
+    },
+    {
+        "phrase": "I’m afraid",
+        "meaning": "と残念ながら思う"
+    },
+    {
+        "phrase": "I know",
+        "meaning": "のを知っている"
+    },
+    {
+        "phrase": "I heard",
+        "meaning": "のを聞いた"
+    },
+    {
+        "phrase": "I found",
+        "meaning": "とわかった"
+    },
+    {
+        "phrase": "I noticed",
+        "meaning": "と気づいた"
+    },
+    {
+        "phrase": "I realized",
+        "meaning": "と気づいた"
+    },
+    {
+        "phrase": "I feel",
+        "meaning": "と感じる",
+        "phrase-past": "I felt",
+        "meaning-past": "と感じた"
+    },
+    {
+        "phrase": "I’m aware",
+        "meaning": "と気づいている"
+    },
+    {
+        "phrase": "I’m conscious",
+        "meaning": "と気づいている"
+    },
+    {
+        "phrase": "It seems",
+        "meaning": "と思われる"
+    },
+    {
+        "phrase": "It appears",
+        "meaning": "らしい"
+    },
+
+
+
+    {
+        "phrase": "I’m glad",
+        "meaning": "ことが嬉しい",
+        "phrase-past": "I was glad",
+        "meaning-past": "で嬉しかった"
+    },
+    {
+        "phrase": "I’m happy",
+        "meaning": "ことが幸せだ",
+        "phrase-past": "I was happy",
+        "meaning-past": "ということで幸せだった"
+    },
+    {
+        "phrase": "I’m delighted",
+        "meaning": "ことに喜んでいる",
+        "phrase-past": "I was delighted",
+        "meaning-past": "で喜んでいた"
+    },
+    {
+        "phrase": "I’m pleased",
+        "meaning": "ことに喜んでいる",
+        "phrase-past": "I was pleased",
+        "meaning-past": "ということで喜んでいた"
+    },
+    {
+        "phrase": "I’m proud",
+        "meaning": "ことを誇りに思っている",
+        "phrase-past": "I was proud",
+        "meaning-past": "ことを誇りに思っていた"
+    },
+    {
+        "phrase": "I’m thankful",
+        "meaning": "ことに感謝している",
+        "phrase-past": "I was thankful",
+        "meaning-past": "ことに感謝していた"
+    },
+    {
+        "phrase": "I’m grateful",
+        "meaning": "ことに感謝している（少し改まった感謝）",
+        "phrase-past": "I was grateful",
+        "meaning-past": "ことに感謝していた（少し改まった感謝）"
+    },
+    {
+        "phrase": "I’m relieved",
+        "meaning": "ことにほっとしている",
+        "phrase-past": "I was relieved",
+        "meaning-past": "ことにほっとしていた"
+    },
+    {
+        "phrase": "I’m surprised",
+        "meaning": "ことに驚いている",
+        "phrase-past": "I was surprised",
+        "meaning-past": "ことに驚いていた"
+    },
+    {
+        "phrase": "I’m amazed",
+        "meaning": "ことにとても驚いている",
+        "phrase-past": "I was amazed",
+        "meaning-past": "ことにとても驚いていた"
+    },
+    {
+        "phrase": "I’m shocked",
+        "meaning": "ことにとても驚いている",
+        "phrase-past": "I was shocked",
+        "meaning-past": "ことにとても驚いていた"
+    },
+    {
+        "phrase": "I’m astonished",
+        "meaning": "ことにとても驚いている",
+        "phrase-past": "I was astonished",
+        "meaning-past": "ことにとても驚いていた"
+    },
+    {
+        "phrase": "I’m lucky",
+        "meaning": "とは運がいい",
+        "phrase-past": "I was lucky",
+        "meaning-past": "とは運がよかった"
+    },
+    {
+        "phrase": "I’m fortunate",
+        "meaning": "とは幸運です",
+        "phrase-past": "I was fortunate",
+        "meaning-past": "とは幸運だった"
+    },
+    {
+        "phrase": "I’m sorry",
+        "meaning": "とは残念だ",
+        "phrase-past": "I was sorry",
+        "meaning-past": "とは残念だった"
+    },
+    {
+        "phrase": "I’m sad",
+        "meaning": "とは悲しい",
+        "phrase-past": "I was sad",
+        "meaning-past": "とは悲しかった"
+    },
+    {
+        "phrase": "I’m worried",
+        "meaning": "ことに心配している",
+        "phrase-past": "I was worried",
+        "meaning-past": "ことに心配していた"
+    },
+    {
+        "phrase": "I’m concerned",
+        "meaning": "ことに心配している",
+        "phrase-past": "I was concerned",
+        "meaning-past": "ことに心配していた"
+    },
+    {
+        "phrase": "I’m disappointed",
+        "meaning": "とはがっかりだ",
+        "phrase-past": "I was disappointed",
+        "meaning-past": "とはがっかりだった"
+    },
+    {
+        "phrase": "I’m upset",
+        "meaning": "とは不快だ",
+        "phrase-past": "I was upset",
+        "meaning-past": "とは不快だった"
+    },
+
+
+
+    {
+        "phrase": "It’s said",
+        "meaning": "と言われている",
+        "phrase-past": "It was said",
+        "meaning-past": "と言われていた"
+    },
+    {
+        "phrase": "It’s clear",
+        "meaning": "のは明らかだ",
+        "phrase-past": "It was clear",
+        "meaning-past": "のは明らかだった"
+    },
+    {
+        "phrase": "It’s obvious",
+        "meaning": "のは明らかだ",
+        "phrase-past": "It was obvious",
+        "meaning-past": "のは明らかだった"
+    },
+    {
+        "phrase": "It’s natural",
+        "meaning": "のは当然だ",
+        "phrase-past": "It was natural",
+        "meaning-past": "のは当然だった"
+    },
+    {
+        "phrase": "It’s true",
+        "meaning": "のは本当だ",
+        "phrase-past": "It was true",
+        "meaning-past": "のは本当だった"
+    },
+    {
+        "phrase": "It’s likely",
+        "meaning": "気がする",
+        "phrase-past": "It was likely",
+        "meaning-past": "気がした"
+    },
+    {
+        "phrase": "It’s unlikely",
+        "meaning": "気がしない",
+        "phrase-past": "It was unlikely",
+        "meaning-past": "気がしなかった"
+    },
+    {
+        "phrase": "It’s strange",
+        "meaning": "のは奇妙だ",
+        "phrase-past": "It was strange",
+        "meaning-past": "のは奇妙だった"
+    },
+    {
+        "phrase": "It’s possible",
+        "meaning": "可能性がある",
+        "phrase-past": "It was possible",
+        "meaning-past": "可能性があった"
+    },
+
+
+
+    {
+        "phrase": "I wish 仮定法",
+        "meaning": "だったらいいのに（妄想）"
+    },
+
+
+
+
+
+    {
+        "phrase": "I suggest (S do)",
+        "meaning": "のを提案する"
+    },
+    {
+        "phrase": "I recommend (S do)",
+        "meaning": "のを勧める"
+    },
+    {
+        "phrase": "I insist (S do)",
+        "meaning": "のを主張する"
+    }
+]

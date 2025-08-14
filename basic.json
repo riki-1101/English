@@ -1,77 +1,83 @@
 [
     {
-        "phrase": "I’m (adj)",
-        "meaning": "～の状態である",
-        "type": "主張"
-    },
-    {
-        "phrase": "I was (adj)",
-        "meaning": "～の状態だった",
-        "type": "主張"
-    },
-    {
-        "phrase": "I was just (adj)",
-        "meaning": "～していたところ",
-        "type": "主張"
-    },
-    {
-        "phrase": "It's kind of (adj)",
-        "meaning": "なんかちょっと～だね",
-        "type": "主張"
-    },
-    {
-        "phrase": "It's a bit (adj)",
-        "meaning": "ちょっと～だね",
-        "type": "主張"
-    },
-    {
-        "phrase": "It's a little (adj)",
-        "meaning": "ちょっと～だね",
-        "type": "主張"
-    },
-    {
-        "phrase": "There is/are (sth)",
-        "meaning": "～がある",
-        "type": "主張"
-    },
-
-
-
-
-
-    {
         "phrase": "You're (adj)",
         "meaning": "～の状態だね",
-        "type": "主張"
+        "type": "相手"
     },
     {
         "phrase": "You're being (adj)",
         "meaning": "～っぽいよ（いつもと違う）",
-        "type": "主張"
-    },
-    {
-        "phrase": "You're acting like (sth)",
-        "meaning": "～みたいに振る舞ってるよ（少し批判的）",
-        "type": "主張"
+        "type": "相手"
     },
     {
         "phrase": "You seem (adj)",
         "meaning": "～のように思えるよ",
-        "type": "主張"
+        "type": "相手"
     },
     {
         "phrase": "You sound (adj)",
         "meaning": "～のように聞こえるよ",
-        "type": "主張"
+        "type": "相手"
     },
     {
         "phrase": "You look (adj)",
         "meaning": "～のように見えるよ",
-        "type": "主張"
+        "type": "相手"
     },
     {
         "phrase": "You feel (adj)",
         "meaning": "～と感じているようだね",
-        "type": "主張"
-    }    
+        "type": "相手"
+    },
+    {
+        "phrase": "You could've (done)",
+        "meaning": "(過去に)～しておけよ！",
+        "type": "相手"
+    },
+
+
+
+
+
+
+    {
+        "phrase": "It's kind of (adj)",
+        "meaning": "なんかちょっと～だね",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's a bit (adj)",
+        "meaning": "ちょっと～だね",
+        "type": "評価"
+    },
+    {
+        "phrase": "It's a little (adj)",
+        "meaning": "ちょっと～だね",
+        "type": "評価"
+    },
+    {
+        "phrase": "There is/are (sth)",
+        "meaning": "～がある",
+        "type": "評価"
+    },
+
+
+
+
+
+    {
+        "phrase": "Have you (done)...?",
+        "meaning": "今までに～してる？",
+        "type": "質問"
+    },
+    {
+        "phrase": "Haven't you (done)...?",
+        "meaning": "今までに～してる？（答えはNoと思って聞く）",
+        "type": "質問"
+    },
+    {
+        "phrase": "Have you ever (done)...?",
+        "meaning": "今までに一度は～したことある？",
+        "type": "質問"
+    }
 ]
