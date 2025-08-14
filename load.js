@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function () {
 const main = document.getElementById("main");
 var filename = main.className;
 function loadData() {
-    fetch(`./json/${filename}.json`)
+    fetch(`../json/${filename}.json`)
         .then(response => response.json())
         .then(json => {
             data = json;
