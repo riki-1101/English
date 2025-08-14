@@ -1,102 +1,102 @@
 [
     {
-        "phrase": "I’m (adj)",
+        "phrase": "I’m (C)",
         "meaning": "～の状態である",
-        "type": "adj"
+        "type": "C"
     },
     {
-        "phrase": "I was (adj)",
+        "phrase": "I was (C)",
         "meaning": "～の状態だった",
-        "type": "adj"
+        "type": "C"
     },
     {
-        "phrase": "I was just (adj)",
+        "phrase": "I was just (C)",
         "meaning": "～していたところ",
-        "type": "adj"
+        "type": "C"
     },
     {
-        "phrase-present": "I (do)",
-        "meaning-present": "普段～する",
+        "phrase": "I (do)",
+        "meaning": "普段～する",
         "type": "do"
     },
     {
-        "phrase-present": "I will (do)",
-        "meaning-present": "～する意志がある",
+        "phrase": "I will (do)",
+        "meaning": "～する意志がある",
         "type": "do"
     },
     {
-        "phrase-present": "I'll just go (do)",
-        "meaning-present": "ちょっと～しに行く",
+        "phrase": "I'll just go (do)",
+        "meaning": "ちょっと～しに行く",
         "type": "do"
     },
     {
-        "phrase-present": "I would often (do)",
-        "meaning-present": "～したものだ",
+        "phrase": "I would often (do)",
+        "meaning": "～したものだ",
         "type": "do"
     },
     {
-        "phrase-present": "I'd rather (do)",
-        "meaning-present": "むしろ～したい",
+        "phrase": "I'd rather (do)",
+        "meaning": "むしろ～したい",
         "type": "do"
     },
     {
-        "phrase-present": "I can (do)",
-        "meaning-present": "～できる可能性がある",
+        "phrase": "I can (do)",
+        "meaning": "～できる可能性がある",
         "type": "do"
     },
     {
-        "phrase-present": "I should (do)",
-        "meaning-present": "～した方がいい",
+        "phrase": "I should (do)",
+        "meaning": "～した方がいい",
         "type": "do"
     },
     {
-        "phrase-present": "I've (done)",
-        "meaning-present": "今までに～している",
+        "phrase": "I've (done)",
+        "meaning": "今までに～している",
         "type": "do"
     },
     {
-        "phrase-present": "I've just (done)",
-        "meaning-present": "ちょうど～したところである",
+        "phrase": "I've just (done)",
+        "meaning": "ちょうど～したところである",
         "type": "do"
     },
     {
-        "phrase-present": "I've never (done)",
-        "meaning-present": "一度も～していない",
+        "phrase": "I've never (done)",
+        "meaning": "一度も～していない",
         "type": "do"
     },
     {
-        "phrase-present": "I could've (done)",
-        "meaning-present": "～した可能性があった（していない）",
+        "phrase": "I could've (done)",
+        "meaning": "～した可能性があった（していない）",
         "type": "do"
     },
     {
-        "phrase-present": "I couldn't have (done)",
-        "meaning-present": "～できなかっただろうな（できた）",
+        "phrase": "I couldn't have (done)",
+        "meaning": "～できなかっただろうな（できた）",
         "type": "do"
     },
     {
-        "phrase-present": "I would've (done)",
-        "meaning-present": "～する意志があったのに（していない）",
+        "phrase": "I would've (done)",
+        "meaning": "～する意志があったのに（していない）",
         "type": "do"
     },
     {
-        "phrase-present": "I should've (done)",
-        "meaning-present": "～すべきだった",
+        "phrase": "I should've (done)",
+        "meaning": "～すべきだった",
         "type": "do"
     },
     {
-        "phrase-present": "I shouldn't have (done)",
-        "meaning-present": "～しなきゃよかった",
+        "phrase": "I shouldn't have (done)",
+        "meaning": "～しなきゃよかった",
         "type": "do"
     },
     {
-        "phrase-present": "I might've (done)",
-        "meaning-present": "～したかもしれない",
+        "phrase": "I might've (done)",
+        "meaning": "～したかもしれない",
         "type": "do"
     },
     {
-        "phrase-present": "I had (done)",
-        "meaning-present": "すでに～していた",
+        "phrase": "I had (done)",
+        "meaning": "すでに～していた",
         "type": "do"
     }
 ]

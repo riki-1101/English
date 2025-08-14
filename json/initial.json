@@ -4,6 +4,32 @@
         "meaning": ""
     },
     {
+        "phrase": "I know",
+        "meaning": "のを知っている"
+    },
+    {
+        "phrase": "I heard",
+        "meaning": "のを聞いた"
+    },
+    {
+        "phrase": "I found",
+        "meaning": "とわかった"
+    },
+    {
+        "phrase": "I noticed",
+        "meaning": "と気づいた"
+    },
+    {
+        "phrase": "I realized",
+        "meaning": "と気づいた"
+    },
+    {
+        "phrase": "I feel",
+        "meaning": "と感じる",
+        "phrase-past": "I felt",
+        "meaning-past": "と感じた"
+    },
+    {
         "phrase": "I think",
         "meaning": "と思う"
     },
@@ -47,7 +73,31 @@
         "phrase": "I can't believe",
         "meaning": "なんて信じられない"
     },
+    {
+        "phrase": "I promise",
+        "meaning": "と約束する"
+    },
+    {
+        "phrase": "I swear",
+        "meaning": "と誓う"
+    },
+
+
+
+
+    {
+        "phrase": "It seems",
+        "meaning": "と思われる"
+    },
+    {
+        "phrase": "It appears",
+        "meaning": "らしい"
+    },
     
+
+
+
+
     {
         "phrase": "I’m sure",
         "meaning": "と確信している"
@@ -61,32 +111,6 @@
         "meaning": "と残念ながら思う"
     },
     {
-        "phrase": "I know",
-        "meaning": "のを知っている"
-    },
-    {
-        "phrase": "I heard",
-        "meaning": "のを聞いた"
-    },
-    {
-        "phrase": "I found",
-        "meaning": "とわかった"
-    },
-    {
-        "phrase": "I noticed",
-        "meaning": "と気づいた"
-    },
-    {
-        "phrase": "I realized",
-        "meaning": "と気づいた"
-    },
-    {
-        "phrase": "I feel",
-        "meaning": "と感じる",
-        "phrase-past": "I felt",
-        "meaning-past": "と感じた"
-    },
-    {
         "phrase": "I’m aware",
         "meaning": "と気づいている"
     },
@@ -94,14 +118,8 @@
         "phrase": "I’m conscious",
         "meaning": "と気づいている"
     },
-    {
-        "phrase": "It seems",
-        "meaning": "と思われる"
-    },
-    {
-        "phrase": "It appears",
-        "meaning": "らしい"
-    },
+
+
 
 
 
@@ -281,29 +299,5 @@
         "meaning": "可能性がある",
         "phrase-past": "It was possible",
         "meaning-past": "可能性があった"
-    },
-
-
-
-    {
-        "phrase": "I wish 仮定法",
-        "meaning": "だったらいいのに（妄想）"
-    },
-
-
-
-
-
-    {
-        "phrase": "I suggest (S do)",
-        "meaning": "のを提案する"
-    },
-    {
-        "phrase": "I recommend (S do)",
-        "meaning": "のを勧める"
-    },
-    {
-        "phrase": "I insist (S do)",
-        "meaning": "のを主張する"
     }
 ]
