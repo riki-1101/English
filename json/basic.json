@@ -1,0 +1,102 @@
+[
+    {
+        "phrase": "I’m (adj)",
+        "meaning": "～の状態である",
+        "type": "adj"
+    },
+    {
+        "phrase": "I was (adj)",
+        "meaning": "～の状態だった",
+        "type": "adj"
+    },
+    {
+        "phrase": "I was just (adj)",
+        "meaning": "～していたところ",
+        "type": "adj"
+    },
+    {
+        "phrase-present": "I (do)",
+        "meaning-present": "普段～する",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I will (do)",
+        "meaning-present": "～する意志がある",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I'll just go (do)",
+        "meaning-present": "ちょっと～しに行く",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I would often (do)",
+        "meaning-present": "～したものだ",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I'd rather (do)",
+        "meaning-present": "むしろ～したい",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I can (do)",
+        "meaning-present": "～できる可能性がある",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I should (do)",
+        "meaning-present": "～した方がいい",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I've (done)",
+        "meaning-present": "今までに～している",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I've just (done)",
+        "meaning-present": "ちょうど～したところである",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I've never (done)",
+        "meaning-present": "一度も～していない",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I could've (done)",
+        "meaning-present": "～した可能性があった（していない）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I couldn't have (done)",
+        "meaning-present": "～できなかっただろうな（できた）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I would've (done)",
+        "meaning-present": "～する意志があったのに（していない）",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I should've (done)",
+        "meaning-present": "～すべきだった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I shouldn't have (done)",
+        "meaning-present": "～しなきゃよかった",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I might've (done)",
+        "meaning-present": "～したかもしれない",
+        "type": "do"
+    },
+    {
+        "phrase-present": "I had (done)",
+        "meaning-present": "すでに～していた",
+        "type": "do"
+    }
+]
